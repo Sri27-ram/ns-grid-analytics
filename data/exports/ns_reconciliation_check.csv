@@ -1,0 +1,1867 @@
+ref_date,generation_type,reported_total_mwh,computed_total_mwh,suppressed_component_count,component_count,variance_mwh,variance_pct,reconciliation_flag
+2008-01-01,Combustion turbine,30863,30863,0,1,0,0.0000,OK
+2008-01-01,Conventional steam turbine,1036750,1036750,0,2,0,0.0000,OK
+2008-01-01,Hydraulic turbine,107413,107413,0,2,0,0.0000,OK
+2008-01-01,Tidal power turbine,2417,2417,0,1,0,0.0000,OK
+2008-01-01,Total all types of electricity generation,1189005,1189005,0,2,0,0.0000,OK
+2008-01-01,Wind power turbine,11562,11562,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-02-01,Combustion turbine,25380,25380,0,1,0,0.0000,OK
+2008-02-01,Conventional steam turbine,936935,936935,0,2,0,0.0000,OK
+2008-02-01,Hydraulic turbine,121149,121149,0,2,0,0.0000,OK
+2008-02-01,Tidal power turbine,1915,1915,0,1,0,0.0000,OK
+2008-02-01,Total all types of electricity generation,1094188,1094188,0,2,0,0.0000,OK
+2008-02-01,Wind power turbine,8809,8809,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-03-01,Combustion turbine,20395,20395,0,1,0,0.0000,OK
+2008-03-01,Conventional steam turbine,1002927,1002927,0,2,0,0.0000,OK
+2008-03-01,Hydraulic turbine,145267,145267,0,2,0,0.0000,OK
+2008-03-01,Tidal power turbine,2473,2473,0,1,0,0.0000,OK
+2008-03-01,Total all types of electricity generation,1182614,1182614,0,2,0,0.0000,OK
+2008-03-01,Wind power turbine,11552,11552,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-04-01,Combustion turbine,8341,8341,0,1,0,0.0000,OK
+2008-04-01,Conventional steam turbine,898184,898184,0,2,0,0.0000,OK
+2008-04-01,Hydraulic turbine,110078,110078,0,2,0,0.0000,OK
+2008-04-01,Tidal power turbine,2447,2447,0,1,0,0.0000,OK
+2008-04-01,Total all types of electricity generation,1026632,1026632,0,2,0,0.0000,OK
+2008-04-01,Wind power turbine,7582,7582,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-05-01,Combustion turbine,8790,8790,0,1,0,0.0000,OK
+2008-05-01,Conventional steam turbine,850312,850312,0,2,0,0.0000,OK
+2008-05-01,Hydraulic turbine,87975,87975,0,2,0,0.0000,OK
+2008-05-01,Tidal power turbine,2400,2400,0,1,0,0.0000,OK
+2008-05-01,Total all types of electricity generation,958470,958470,0,2,0,0.0000,OK
+2008-05-01,Wind power turbine,8993,8993,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-06-01,Combustion turbine,19474,19474,0,1,0,0.0000,OK
+2008-06-01,Conventional steam turbine,811919,811919,0,2,0,0.0000,OK
+2008-06-01,Hydraulic turbine,66502,66502,0,2,0,0.0000,OK
+2008-06-01,Tidal power turbine,1249,1249,0,1,0,0.0000,OK
+2008-06-01,Total all types of electricity generation,903208,903208,0,2,0,0.0000,OK
+2008-06-01,Wind power turbine,4064,4064,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-07-01,Combustion turbine,27094,27094,0,1,0,0.0000,OK
+2008-07-01,Conventional steam turbine,852113,852113,0,2,0,0.0000,OK
+2008-07-01,Hydraulic turbine,54128,54128,0,2,0,0.0000,OK
+2008-07-01,Tidal power turbine,-115,-115,0,1,0,0.0000,OK
+2008-07-01,Total all types of electricity generation,938108,938108,0,2,0,0.0000,OK
+2008-07-01,Wind power turbine,4888,4888,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-08-01,Combustion turbine,17180,17180,0,1,0,0.0000,OK
+2008-08-01,Conventional steam turbine,855244,855244,0,2,0,0.0000,OK
+2008-08-01,Hydraulic turbine,50690,50690,0,2,0,0.0000,OK
+2008-08-01,Tidal power turbine,-71,-71,0,1,0,0.0000,OK
+2008-08-01,Total all types of electricity generation,926693,926693,0,2,0,0.0000,OK
+2008-08-01,Wind power turbine,3650,3650,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-09-01,Combustion turbine,22104,22104,0,1,0,0.0000,OK
+2008-09-01,Conventional steam turbine,806895,806895,0,2,0,0.0000,OK
+2008-09-01,Hydraulic turbine,84541,84541,0,2,0,0.0000,OK
+2008-09-01,Tidal power turbine,-65,-65,0,1,0,0.0000,OK
+2008-09-01,Total all types of electricity generation,920681,920681,0,2,0,0.0000,OK
+2008-09-01,Wind power turbine,7206,7206,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-10-01,Combustion turbine,32772,32772,0,1,0,0.0000,OK
+2008-10-01,Conventional steam turbine,848688,848688,0,2,0,0.0000,OK
+2008-10-01,Hydraulic turbine,66372,66372,0,2,0,0.0000,OK
+2008-10-01,Tidal power turbine,-60,-60,0,1,0,0.0000,OK
+2008-10-01,Total all types of electricity generation,957342,957342,0,2,0,0.0000,OK
+2008-10-01,Wind power turbine,9570,9570,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-11-01,Combustion turbine,27009,27009,0,1,0,0.0000,OK
+2008-11-01,Conventional steam turbine,853221,853221,0,2,0,0.0000,OK
+2008-11-01,Hydraulic turbine,71797,71797,0,2,0,0.0000,OK
+2008-11-01,Tidal power turbine,389,389,0,1,0,0.0000,OK
+2008-11-01,Total all types of electricity generation,961475,961475,0,2,0,0.0000,OK
+2008-11-01,Wind power turbine,9059,9059,1,2,0,0.0000,SUPPRESSED_SOURCE
+2008-12-01,Combustion turbine,19797,19797,0,1,0,0.0000,OK
+2008-12-01,Conventional steam turbine,948974,948974,0,2,0,0.0000,OK
+2008-12-01,Hydraulic turbine,124214,124214,0,2,0,0.0000,OK
+2008-12-01,Tidal power turbine,2039,2039,0,1,0,0.0000,OK
+2008-12-01,Total all types of electricity generation,1105984,1105984,0,2,0,0.0000,OK
+2008-12-01,Wind power turbine,10960,10960,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-01-01,Combustion turbine,27973,27973,0,1,0,0.0000,OK
+2009-01-01,Conventional steam turbine,1054913,1054913,0,2,0,0.0000,OK
+2009-01-01,Hydraulic turbine,113802,113802,0,2,0,0.0000,OK
+2009-01-01,Tidal power turbine,2220,2220,0,1,0,0.0000,OK
+2009-01-01,Total all types of electricity generation,1208129,1208129,0,2,0,0.0000,OK
+2009-01-01,Wind power turbine,9221,9221,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-02-01,Combustion turbine,35355,35355,0,1,0,0.0000,OK
+2009-02-01,Conventional steam turbine,930100,930100,0,2,0,0.0000,OK
+2009-02-01,Hydraulic turbine,88146,88146,0,2,0,0.0000,OK
+2009-02-01,Tidal power turbine,2186,2186,0,1,0,0.0000,OK
+2009-02-01,Total all types of electricity generation,1064731,1064731,0,2,0,0.0000,OK
+2009-02-01,Wind power turbine,8944,8944,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-03-01,Combustion turbine,29780,29780,0,1,0,0.0000,OK
+2009-03-01,Conventional steam turbine,955064,955064,0,2,0,0.0000,OK
+2009-03-01,Hydraulic turbine,113616,113616,0,2,0,0.0000,OK
+2009-03-01,Tidal power turbine,2570,2570,0,1,0,0.0000,OK
+2009-03-01,Total all types of electricity generation,1108859,1108859,0,2,0,0.0000,OK
+2009-03-01,Wind power turbine,7829,7829,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-04-01,Combustion turbine,18911,18911,0,1,0,0.0000,OK
+2009-04-01,Conventional steam turbine,800997,800997,0,2,0,0.0000,OK
+2009-04-01,Hydraulic turbine,109411,109411,0,2,0,0.0000,OK
+2009-04-01,Tidal power turbine,2339,2339,0,1,0,0.0000,OK
+2009-04-01,Total all types of electricity generation,940134,940134,0,2,0,0.0000,OK
+2009-04-01,Wind power turbine,8476,8476,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-05-01,Combustion turbine,29881,29881,0,1,0,0.0000,OK
+2009-05-01,Conventional steam turbine,789438,789438,0,2,0,0.0000,OK
+2009-05-01,Hydraulic turbine,122049,122049,0,2,0,0.0000,OK
+2009-05-01,Tidal power turbine,2831,2831,0,1,0,0.0000,OK
+2009-05-01,Total all types of electricity generation,950387,950387,0,2,0,0.0000,OK
+2009-05-01,Wind power turbine,6188,6188,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-06-01,Combustion turbine,45117,45117,0,1,0,0.0000,OK
+2009-06-01,Conventional steam turbine,716911,716911,0,2,0,0.0000,OK
+2009-06-01,Hydraulic turbine,58832,58832,0,2,0,0.0000,OK
+2009-06-01,Tidal power turbine,2484,2484,0,1,0,0.0000,OK
+2009-06-01,Total all types of electricity generation,829085,829085,0,2,0,0.0000,OK
+2009-06-01,Wind power turbine,5741,5741,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-07-01,Combustion turbine,43496,43496,0,1,0,0.0000,OK
+2009-07-01,Conventional steam turbine,738049,738049,0,2,0,0.0000,OK
+2009-07-01,Hydraulic turbine,72915,72915,0,2,0,0.0000,OK
+2009-07-01,Tidal power turbine,2906,2906,0,1,0,0.0000,OK
+2009-07-01,Total all types of electricity generation,862224,862224,0,2,0,0.0000,OK
+2009-07-01,Wind power turbine,4858,4858,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-08-01,Combustion turbine,33194,33194,0,1,0,0.0000,OK
+2009-08-01,Conventional steam turbine,758825,758825,0,2,0,0.0000,OK
+2009-08-01,Hydraulic turbine,63581,63581,0,2,0,0.0000,OK
+2009-08-01,Tidal power turbine,2280,2280,0,1,0,0.0000,OK
+2009-08-01,Total all types of electricity generation,862574,862574,0,2,0,0.0000,OK
+2009-08-01,Wind power turbine,4694,4694,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-09-01,Combustion turbine,39776,39776,0,1,0,0.0000,OK
+2009-09-01,Conventional steam turbine,663839,663839,0,2,0,0.0000,OK
+2009-09-01,Hydraulic turbine,47910,47910,0,2,0,0.0000,OK
+2009-09-01,Tidal power turbine,2544,2544,0,1,0,0.0000,OK
+2009-09-01,Total all types of electricity generation,759802,759802,0,2,0,0.0000,OK
+2009-09-01,Wind power turbine,5733,5733,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-10-01,Combustion turbine,50950,50950,0,1,0,0.0000,OK
+2009-10-01,Conventional steam turbine,771979,771979,0,2,0,0.0000,OK
+2009-10-01,Hydraulic turbine,84190,84190,0,2,0,0.0000,OK
+2009-10-01,Tidal power turbine,2492,2492,0,1,0,0.0000,OK
+2009-10-01,Total all types of electricity generation,918842,918842,0,2,0,0.0000,OK
+2009-10-01,Wind power turbine,9231,9231,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-11-01,Combustion turbine,57486,57486,0,1,0,0.0000,OK
+2009-11-01,Conventional steam turbine,781983,781983,0,2,0,0.0000,OK
+2009-11-01,Hydraulic turbine,84172,84172,0,2,0,0.0000,OK
+2009-11-01,Tidal power turbine,2659,2659,0,1,0,0.0000,OK
+2009-11-01,Total all types of electricity generation,937267,937267,0,2,0,0.0000,OK
+2009-11-01,Wind power turbine,10967,10967,1,2,0,0.0000,SUPPRESSED_SOURCE
+2009-12-01,Combustion turbine,45466,45466,0,1,0,0.0000,OK
+2009-12-01,Conventional steam turbine,996485,996485,0,2,0,0.0000,OK
+2009-12-01,Hydraulic turbine,109492,109492,0,2,0,0.0000,OK
+2009-12-01,Tidal power turbine,2442,2442,0,1,0,0.0000,OK
+2009-12-01,Total all types of electricity generation,1166828,1166828,0,2,0,0.0000,OK
+2009-12-01,Wind power turbine,12943,12943,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-01-01,Combustion turbine,42670,42670,0,1,0,0.0000,OK
+2010-01-01,Conventional steam turbine,1053703,1053703,0,2,0,0.0000,OK
+2010-01-01,Hydraulic turbine,111235,111235,0,2,0,0.0000,OK
+2010-01-01,Tidal power turbine,1696,1696,0,1,0,0.0000,OK
+2010-01-01,Total all types of electricity generation,1218426,1218426,0,2,0,0.0000,OK
+2010-01-01,Wind power turbine,9122,9122,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-02-01,Combustion turbine,40042,40042,0,1,0,0.0000,OK
+2010-02-01,Conventional steam turbine,931120,931120,0,2,0,0.0000,OK
+2010-02-01,Hydraulic turbine,85928,85928,0,2,0,0.0000,OK
+2010-02-01,Tidal power turbine,2015,2015,0,1,0,0.0000,OK
+2010-02-01,Total all types of electricity generation,1069071,1069071,0,2,0,0.0000,OK
+2010-02-01,Wind power turbine,9966,9966,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-03-01,Combustion turbine,31600,31600,0,1,0,0.0000,OK
+2010-03-01,Conventional steam turbine,941411,941411,0,2,0,0.0000,OK
+2010-03-01,Hydraulic turbine,93488,93488,0,2,0,0.0000,OK
+2010-03-01,Tidal power turbine,2547,2547,0,1,0,0.0000,OK
+2010-03-01,Total all types of electricity generation,1080096,1080096,0,2,0,0.0000,OK
+2010-03-01,Wind power turbine,11050,11050,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-04-01,Combustion turbine,31676,31676,0,1,0,0.0000,OK
+2010-04-01,Conventional steam turbine,676485,676485,0,2,0,0.0000,OK
+2010-04-01,Hydraulic turbine,97370,97370,0,2,0,0.0000,OK
+2010-04-01,Tidal power turbine,2412,2412,0,1,0,0.0000,OK
+2010-04-01,Total all types of electricity generation,812409,812409,0,2,0,0.0000,OK
+2010-04-01,Wind power turbine,4466,4466,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-05-01,Combustion turbine,42774,42774,0,1,0,0.0000,OK
+2010-05-01,Conventional steam turbine,766076,766076,0,2,0,0.0000,OK
+2010-05-01,Hydraulic turbine,72743,72743,0,2,0,0.0000,OK
+2010-05-01,Tidal power turbine,2695,2695,0,1,0,0.0000,OK
+2010-05-01,Total all types of electricity generation,892489,892489,0,2,0,0.0000,OK
+2010-05-01,Wind power turbine,8201,8201,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-06-01,Combustion turbine,33517,33517,0,1,0,0.0000,OK
+2010-06-01,Conventional steam turbine,765238,765238,0,2,0,0.0000,OK
+2010-06-01,Hydraulic turbine,67570,67570,0,2,0,0.0000,OK
+2010-06-01,Tidal power turbine,2503,2503,0,1,0,0.0000,OK
+2010-06-01,Total all types of electricity generation,874278,874278,0,2,0,0.0000,OK
+2010-06-01,Wind power turbine,5450,5450,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-07-01,Combustion turbine,16029,16029,0,1,0,0.0000,OK
+2010-07-01,Conventional steam turbine,868896,868896,0,2,0,0.0000,OK
+2010-07-01,Hydraulic turbine,55570,55570,0,2,0,0.0000,OK
+2010-07-01,Tidal power turbine,2472,2472,0,1,0,0.0000,OK
+2010-07-01,Total all types of electricity generation,948846,948846,0,2,0,0.0000,OK
+2010-07-01,Wind power turbine,5879,5879,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-08-01,Combustion turbine,15771,15771,0,1,0,0.0000,OK
+2010-08-01,Conventional steam turbine,873995,873995,0,2,0,0.0000,OK
+2010-08-01,Hydraulic turbine,47359,47359,0,2,0,0.0000,OK
+2010-08-01,Tidal power turbine,2636,2636,0,1,0,0.0000,OK
+2010-08-01,Total all types of electricity generation,946190,946190,0,2,0,0.0000,OK
+2010-08-01,Wind power turbine,6429,6429,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-09-01,Combustion turbine,31929,31929,0,1,0,0.0000,OK
+2010-09-01,Conventional steam turbine,744686,744686,0,2,0,0.0000,OK
+2010-09-01,Hydraulic turbine,53426,53426,0,2,0,0.0000,OK
+2010-09-01,Tidal power turbine,2480,2480,0,1,0,0.0000,OK
+2010-09-01,Total all types of electricity generation,840324,840324,0,2,0,0.0000,OK
+2010-09-01,Wind power turbine,7803,7803,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-10-01,Combustion turbine,30919,30919,0,1,0,0.0000,OK
+2010-10-01,Conventional steam turbine,818186,818186,0,2,0,0.0000,OK
+2010-10-01,Hydraulic turbine,58867,58867,0,2,0,0.0000,OK
+2010-10-01,Tidal power turbine,2014,2014,0,1,0,0.0000,OK
+2010-10-01,Total all types of electricity generation,924752,924752,0,2,0,0.0000,OK
+2010-10-01,Wind power turbine,14766,14766,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-11-01,Combustion turbine,48615,48615,0,1,0,0.0000,OK
+2010-11-01,Conventional steam turbine,813552,813552,0,2,0,0.0000,OK
+2010-11-01,Hydraulic turbine,105556,105556,0,2,0,0.0000,OK
+2010-11-01,Tidal power turbine,1913,1913,0,1,0,0.0000,OK
+2010-11-01,Total all types of electricity generation,983273,983273,0,2,0,0.0000,OK
+2010-11-01,Wind power turbine,13637,13637,1,2,0,0.0000,SUPPRESSED_SOURCE
+2010-12-01,Combustion turbine,27349,27349,0,1,0,0.0000,OK
+2010-12-01,Conventional steam turbine,862427,862427,0,2,0,0.0000,OK
+2010-12-01,Hydraulic turbine,152924,152924,0,2,0,0.0000,OK
+2010-12-01,Tidal power turbine,2297,2297,0,1,0,0.0000,OK
+2010-12-01,Total all types of electricity generation,1072740,1072740,0,2,0,0.0000,OK
+2010-12-01,Wind power turbine,27743,27743,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-01-01,Combustion turbine,42563,42563,0,1,0,0.0000,OK
+2011-01-01,Conventional steam turbine,987233,987233,0,2,0,0.0000,OK
+2011-01-01,Hydraulic turbine,131037,131037,0,2,0,0.0000,OK
+2011-01-01,Tidal power turbine,2494,2494,0,1,0,0.0000,OK
+2011-01-01,Total all types of electricity generation,1186036,1186036,0,2,0,0.0000,OK
+2011-01-01,Wind power turbine,22709,22709,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-02-01,Combustion turbine,39743,39743,0,1,0,0.0000,OK
+2011-02-01,Conventional steam turbine,956954,956954,0,2,0,0.0000,OK
+2011-02-01,Hydraulic turbine,104673,104673,0,2,0,0.0000,OK
+2011-02-01,Tidal power turbine,2216,2216,0,1,0,0.0000,OK
+2011-02-01,Total all types of electricity generation,1124310,1124310,0,2,0,0.0000,OK
+2011-02-01,Wind power turbine,20724,20724,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-03-01,Combustion turbine,41505,41505,0,1,0,0.0000,OK
+2011-03-01,Conventional steam turbine,941816,941816,0,2,0,0.0000,OK
+2011-03-01,Hydraulic turbine,134181,134181,0,2,0,0.0000,OK
+2011-03-01,Tidal power turbine,2400,2400,0,1,0,0.0000,OK
+2011-03-01,Total all types of electricity generation,1158327,1158327,0,2,0,0.0000,OK
+2011-03-01,Wind power turbine,38425,38425,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-04-01,Combustion turbine,43228,43228,0,1,0,0.0000,OK
+2011-04-01,Conventional steam turbine,733599,733599,0,2,0,0.0000,OK
+2011-04-01,Hydraulic turbine,113540,113540,0,2,0,0.0000,OK
+2011-04-01,Tidal power turbine,2732,2732,0,1,0,0.0000,OK
+2011-04-01,Total all types of electricity generation,929685,929685,0,2,0,0.0000,OK
+2011-04-01,Wind power turbine,36586,36586,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-05-01,Combustion turbine,49423,49423,0,1,0,0.0000,OK
+2011-05-01,Conventional steam turbine,650112,650112,0,2,0,0.0000,OK
+2011-05-01,Hydraulic turbine,133407,133407,0,2,0,0.0000,OK
+2011-05-01,Tidal power turbine,2381,2381,0,1,0,0.0000,OK
+2011-05-01,Total all types of electricity generation,868537,868537,0,2,0,0.0000,OK
+2011-05-01,Wind power turbine,33214,33214,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-06-01,Combustion turbine,41359,41359,0,1,0,0.0000,OK
+2011-06-01,Conventional steam turbine,687641,687641,0,2,0,0.0000,OK
+2011-06-01,Hydraulic turbine,82095,82095,0,2,0,0.0000,OK
+2011-06-01,Tidal power turbine,2516,2516,0,1,0,0.0000,OK
+2011-06-01,Total all types of electricity generation,835642,835642,0,2,0,0.0000,OK
+2011-06-01,Wind power turbine,22031,22031,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-07-01,Combustion turbine,35490,35490,0,1,0,0.0000,OK
+2011-07-01,Conventional steam turbine,768819,768819,0,2,0,0.0000,OK
+2011-07-01,Hydraulic turbine,66314,66314,0,2,0,0.0000,OK
+2011-07-01,Tidal power turbine,2786,2786,0,1,0,0.0000,OK
+2011-07-01,Total all types of electricity generation,895890,895890,0,2,0,0.0000,OK
+2011-07-01,Wind power turbine,22481,22481,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-08-01,Combustion turbine,27008,27008,0,1,0,0.0000,OK
+2011-08-01,Conventional steam turbine,779922,779922,0,2,0,0.0000,OK
+2011-08-01,Hydraulic turbine,45391,45391,0,2,0,0.0000,OK
+2011-08-01,Tidal power turbine,1370,1370,0,1,0,0.0000,OK
+2011-08-01,Total all types of electricity generation,875488,875488,0,2,0,0.0000,OK
+2011-08-01,Wind power turbine,21797,21797,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-09-01,Combustion turbine,25837,25837,0,1,0,0.0000,OK
+2011-09-01,Conventional steam turbine,644037,644037,0,2,0,0.0000,OK
+2011-09-01,Hydraulic turbine,39633,39633,0,2,0,0.0000,OK
+2011-09-01,Tidal power turbine,1880,1880,0,1,0,0.0000,OK
+2011-09-01,Total all types of electricity generation,733590,733590,0,2,0,0.0000,OK
+2011-09-01,Wind power turbine,22203,22203,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-10-01,Combustion turbine,24331,24331,0,1,0,0.0000,OK
+2011-10-01,Conventional steam turbine,638215,638215,0,2,0,0.0000,OK
+2011-10-01,Hydraulic turbine,81331,81331,0,2,0,0.0000,OK
+2011-10-01,Tidal power turbine,2026,2026,0,1,0,0.0000,OK
+2011-10-01,Total all types of electricity generation,776867,776867,0,2,0,0.0000,OK
+2011-10-01,Wind power turbine,30964,30964,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-11-01,Combustion turbine,22145,22145,0,1,0,0.0000,OK
+2011-11-01,Conventional steam turbine,697864,697864,0,2,0,0.0000,OK
+2011-11-01,Hydraulic turbine,75058,75058,0,2,0,0.0000,OK
+2011-11-01,Tidal power turbine,1311,1311,0,1,0,0.0000,OK
+2011-11-01,Total all types of electricity generation,832668,832668,0,2,0,0.0000,OK
+2011-11-01,Wind power turbine,36290,36290,1,2,0,0.0000,SUPPRESSED_SOURCE
+2011-12-01,Combustion turbine,26449,26449,0,1,0,0.0000,OK
+2011-12-01,Conventional steam turbine,780937,780937,0,2,0,0.0000,OK
+2011-12-01,Hydraulic turbine,99204,99204,0,2,0,0.0000,OK
+2011-12-01,Tidal power turbine,1983,1983,0,1,0,0.0000,OK
+2011-12-01,Total all types of electricity generation,943732,943732,0,2,0,0.0000,OK
+2011-12-01,Wind power turbine,35159,35159,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-01-01,Combustion turbine,39425,39425,0,1,0,0.0000,OK
+2012-01-01,Conventional steam turbine,867680,867680,0,2,0,0.0000,OK
+2012-01-01,Hydraulic turbine,100612,100612,0,2,0,0.0000,OK
+2012-01-01,Tidal power turbine,1983,1983,0,1,0,0.0000,OK
+2012-01-01,Total all types of electricity generation,1051425,1051425,0,2,0,0.0000,OK
+2012-01-01,Wind power turbine,41725,41725,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-02-01,Combustion turbine,63739,63739,0,1,0,0.0000,OK
+2012-02-01,Conventional steam turbine,822489,822489,0,2,0,0.0000,OK
+2012-02-01,Hydraulic turbine,90586,90586,0,2,0,0.0000,OK
+2012-02-01,Tidal power turbine,1809,1809,0,1,0,0.0000,OK
+2012-02-01,Total all types of electricity generation,1011273,1011273,0,2,0,0.0000,OK
+2012-02-01,Wind power turbine,32650,32650,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-03-01,Combustion turbine,74760,74760,0,1,0,0.0000,OK
+2012-03-01,Conventional steam turbine,672048,672048,0,2,0,0.0000,OK
+2012-03-01,Hydraulic turbine,95109,95109,0,2,0,0.0000,OK
+2012-03-01,Tidal power turbine,1765,1765,0,1,0,0.0000,OK
+2012-03-01,Total all types of electricity generation,880823,880823,0,2,0,0.0000,OK
+2012-03-01,Wind power turbine,37141,37141,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-04-01,Combustion turbine,64657,64657,0,1,0,0.0000,OK
+2012-04-01,Conventional steam turbine,621754,621754,0,2,0,0.0000,OK
+2012-04-01,Hydraulic turbine,74472,74472,0,2,0,0.0000,OK
+2012-04-01,Tidal power turbine,1862,1862,0,1,0,0.0000,OK
+2012-04-01,Total all types of electricity generation,799359,799359,0,2,0,0.0000,OK
+2012-04-01,Wind power turbine,36614,36614,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-05-01,Combustion turbine,62159,62159,0,1,0,0.0000,OK
+2012-05-01,Conventional steam turbine,569692,569692,0,2,0,0.0000,OK
+2012-05-01,Hydraulic turbine,69140,69140,0,2,0,0.0000,OK
+2012-05-01,Tidal power turbine,2395,2395,0,1,0,0.0000,OK
+2012-05-01,Total all types of electricity generation,736332,736332,0,2,0,0.0000,OK
+2012-05-01,Wind power turbine,32946,32946,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-06-01,Combustion turbine,41713,41713,0,1,0,0.0000,OK
+2012-06-01,Conventional steam turbine,563743,563743,0,2,0,0.0000,OK
+2012-06-01,Hydraulic turbine,57846,57846,0,2,0,0.0000,OK
+2012-06-01,Tidal power turbine,2891,2891,0,1,0,0.0000,OK
+2012-06-01,Total all types of electricity generation,695703,695703,0,2,0,0.0000,OK
+2012-06-01,Wind power turbine,29510,29510,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-07-01,Combustion turbine,36308,36308,0,1,0,0.0000,OK
+2012-07-01,Conventional steam turbine,618896,618896,0,2,0,0.0000,OK
+2012-07-01,Hydraulic turbine,42984,42984,0,2,0,0.0000,OK
+2012-07-01,Tidal power turbine,2368,2368,0,1,0,0.0000,OK
+2012-07-01,Total all types of electricity generation,726457,726457,0,2,0,0.0000,OK
+2012-07-01,Wind power turbine,25901,25901,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-08-01,Combustion turbine,52233,52233,0,1,0,0.0000,OK
+2012-08-01,Conventional steam turbine,661340,661340,0,2,0,0.0000,OK
+2012-08-01,Hydraulic turbine,19284,19284,0,2,0,0.0000,OK
+2012-08-01,Tidal power turbine,2464,2464,0,1,0,0.0000,OK
+2012-08-01,Total all types of electricity generation,760946,760946,0,2,0,0.0000,OK
+2012-08-01,Wind power turbine,25625,25625,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-09-01,Combustion turbine,40649,40649,0,1,0,0.0000,OK
+2012-09-01,Conventional steam turbine,555432,555432,0,2,0,0.0000,OK
+2012-09-01,Hydraulic turbine,31132,31132,0,2,0,0.0000,OK
+2012-09-01,Tidal power turbine,2609,2609,0,1,0,0.0000,OK
+2012-09-01,Total all types of electricity generation,668509,668509,0,2,0,0.0000,OK
+2012-09-01,Wind power turbine,38687,38687,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-10-01,Combustion turbine,67884,67884,0,1,0,0.0000,OK
+2012-10-01,Conventional steam turbine,623135,623135,0,2,0,0.0000,OK
+2012-10-01,Hydraulic turbine,75030,75030,0,2,0,0.0000,OK
+2012-10-01,Tidal power turbine,2096,2096,0,1,0,0.0000,OK
+2012-10-01,Total all types of electricity generation,815473,815473,0,2,0,0.0000,OK
+2012-10-01,Wind power turbine,47328,47328,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-11-01,Combustion turbine,13632,13632,0,1,0,0.0000,OK
+2012-11-01,Conventional steam turbine,758029,758029,0,2,0,0.0000,OK
+2012-11-01,Hydraulic turbine,91092,91092,0,2,0,0.0000,OK
+2012-11-01,Tidal power turbine,2388,2388,0,1,0,0.0000,OK
+2012-11-01,Total all types of electricity generation,905230,905230,0,2,0,0.0000,OK
+2012-11-01,Wind power turbine,40089,40089,1,2,0,0.0000,SUPPRESSED_SOURCE
+2012-12-01,Combustion turbine,26804,26804,0,1,0,0.0000,OK
+2012-12-01,Conventional steam turbine,847033,847033,0,2,0,0.0000,OK
+2012-12-01,Hydraulic turbine,87254,87254,0,2,0,0.0000,OK
+2012-12-01,Tidal power turbine,2498,2498,0,1,0,0.0000,OK
+2012-12-01,Total all types of electricity generation,1015394,1015394,0,2,0,0.0000,OK
+2012-12-01,Wind power turbine,51805,51805,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-01-01,Combustion turbine,47280,47280,0,1,0,0.0000,OK
+2013-01-01,Conventional steam turbine,894824,894824,0,2,0,0.0000,OK
+2013-01-01,Hydraulic turbine,96515,96515,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-01-01,Tidal power turbine,2324,2324,0,1,0,0.0000,OK
+2013-01-01,Total all types of electricity generation,1098014,1098014,0,2,0,0.0000,OK
+2013-01-01,Wind power turbine,57071,57071,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-02-01,Combustion turbine,26735,26735,0,1,0,0.0000,OK
+2013-02-01,Conventional steam turbine,952302,952302,0,2,0,0.0000,OK
+2013-02-01,Hydraulic turbine,95915,95915,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-02-01,Tidal power turbine,2170,2170,0,1,0,0.0000,OK
+2013-02-01,Total all types of electricity generation,1109874,1109874,0,2,0,0.0000,OK
+2013-02-01,Wind power turbine,32752,32752,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-03-01,Combustion turbine,28264,28264,0,1,0,0.0000,OK
+2013-03-01,Conventional steam turbine,784342,784342,0,2,0,0.0000,OK
+2013-03-01,Hydraulic turbine,100245,100245,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-03-01,Tidal power turbine,2559,2559,0,1,0,0.0000,OK
+2013-03-01,Total all types of electricity generation,950904,950904,0,2,0,0.0000,OK
+2013-03-01,Wind power turbine,35494,35494,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-04-01,Combustion turbine,8238,8238,0,1,0,0.0000,OK
+2013-04-01,Conventional steam turbine,705775,705775,0,2,0,0.0000,OK
+2013-04-01,Hydraulic turbine,106242,106242,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-04-01,Tidal power turbine,2447,2447,0,1,0,0.0000,OK
+2013-04-01,Total all types of electricity generation,858836,858836,0,2,0,0.0000,OK
+2013-04-01,Wind power turbine,36134,36134,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-05-01,Combustion turbine,3848,3848,0,1,0,0.0000,OK
+2013-05-01,Conventional steam turbine,657512,657512,0,2,0,0.0000,OK
+2013-05-01,Hydraulic turbine,76873,76873,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-05-01,Tidal power turbine,2799,2799,0,1,0,0.0000,OK
+2013-05-01,Total all types of electricity generation,781325,781325,0,2,0,0.0000,OK
+2013-05-01,Wind power turbine,40293,40293,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-06-01,Combustion turbine,6636,6636,0,1,0,0.0000,OK
+2013-06-01,Conventional steam turbine,591808,591808,0,2,0,0.0000,OK
+2013-06-01,Hydraulic turbine,55597,55597,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-06-01,Tidal power turbine,435,435,0,1,0,0.0000,OK
+2013-06-01,Total all types of electricity generation,687731,687731,0,2,0,0.0000,OK
+2013-06-01,Wind power turbine,33255,33255,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-07-01,Combustion turbine,40031,40031,0,1,0,0.0000,OK
+2013-07-01,Conventional steam turbine,658400,658400,0,2,0,0.0000,OK
+2013-07-01,Hydraulic turbine,58507,58507,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-07-01,Tidal power turbine,585,585,0,1,0,0.0000,OK
+2013-07-01,Total all types of electricity generation,785594,785594,0,2,0,0.0000,OK
+2013-07-01,Wind power turbine,28071,28071,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-08-01,Combustion turbine,74012,74012,0,1,0,0.0000,OK
+2013-08-01,Conventional steam turbine,583462,583462,0,2,0,0.0000,OK
+2013-08-01,Hydraulic turbine,42835,42835,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-08-01,Tidal power turbine,-167,-167,0,1,0,0.0000,OK
+2013-08-01,Total all types of electricity generation,730077,730077,0,2,0,0.0000,OK
+2013-08-01,Wind power turbine,29935,29935,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-09-01,Combustion turbine,63545,63545,0,1,0,0.0000,OK
+2013-09-01,Conventional steam turbine,526731,526731,0,2,0,0.0000,OK
+2013-09-01,Hydraulic turbine,59784,59784,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-09-01,Tidal power turbine,-211,-211,0,1,0,0.0000,OK
+2013-09-01,Total all types of electricity generation,690112,690112,0,2,0,0.0000,OK
+2013-09-01,Wind power turbine,40263,40263,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-10-01,Combustion turbine,65199,65199,0,1,0,0.0000,OK
+2013-10-01,Conventional steam turbine,612072,612072,0,2,0,0.0000,OK
+2013-10-01,Hydraulic turbine,59658,59658,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-10-01,Tidal power turbine,-152,-152,0,1,0,0.0000,OK
+2013-10-01,Total all types of electricity generation,774850,774850,0,2,0,0.0000,OK
+2013-10-01,Wind power turbine,38073,38073,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-11-01,Combustion turbine,72451,72451,0,1,0,0.0000,OK
+2013-11-01,Conventional steam turbine,692749,692749,0,2,0,0.0000,OK
+2013-11-01,Hydraulic turbine,80982,80982,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-11-01,Tidal power turbine,447,447,0,1,0,0.0000,OK
+2013-11-01,Total all types of electricity generation,896851,896851,0,2,0,0.0000,OK
+2013-11-01,Wind power turbine,50222,50222,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-12-01,Combustion turbine,62354,62354,0,1,0,0.0000,OK
+2013-12-01,Conventional steam turbine,925467,925467,0,2,0,0.0000,OK
+2013-12-01,Hydraulic turbine,125356,125356,1,2,0,0.0000,SUPPRESSED_SOURCE
+2013-12-01,Tidal power turbine,1594,1594,0,1,0,0.0000,OK
+2013-12-01,Total all types of electricity generation,1158725,1158725,0,2,0,0.0000,OK
+2013-12-01,Wind power turbine,43954,43954,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-01-01,Combustion turbine,26967,26967,0,1,0,0.0000,OK
+2014-01-01,Conventional steam turbine,900077,900077,0,2,0,0.0000,OK
+2014-01-01,Hydraulic turbine,124235,124235,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-01-01,Tidal power turbine,1533,1533,0,1,0,0.0000,OK
+2014-01-01,Total all types of electricity generation,1109201,1109201,0,2,0,0.0000,OK
+2014-01-01,Wind power turbine,56389,56389,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-02-01,Combustion turbine,39658,39658,0,1,0,0.0000,OK
+2014-02-01,Conventional steam turbine,824431,824431,0,2,0,0.0000,OK
+2014-02-01,Hydraulic turbine,113759,113759,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-02-01,Tidal power turbine,1352,1352,0,1,0,0.0000,OK
+2014-02-01,Total all types of electricity generation,1009914,1009914,0,2,0,0.0000,OK
+2014-02-01,Wind power turbine,30714,30714,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-03-01,Combustion turbine,36714,36714,0,1,0,0.0000,OK
+2014-03-01,Conventional steam turbine,889238,889238,0,2,0,0.0000,OK
+2014-03-01,Hydraulic turbine,104012,104012,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-03-01,Tidal power turbine,1983,1983,0,1,0,0.0000,OK
+2014-03-01,Total all types of electricity generation,1067609,1067609,0,2,0,0.0000,OK
+2014-03-01,Wind power turbine,35662,35662,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-04-01,Combustion turbine,78056,78056,0,1,0,0.0000,OK
+2014-04-01,Conventional steam turbine,626711,626711,0,2,0,0.0000,OK
+2014-04-01,Hydraulic turbine,127012,127012,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-04-01,Tidal power turbine,1530,1530,0,1,0,0.0000,OK
+2014-04-01,Total all types of electricity generation,870199,870199,0,2,0,0.0000,OK
+2014-04-01,Wind power turbine,36890,36890,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-05-01,Combustion turbine,86824,86824,0,1,0,0.0000,OK
+2014-05-01,Conventional steam turbine,585313,585313,0,2,0,0.0000,OK
+2014-05-01,Hydraulic turbine,110802,110802,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-05-01,Tidal power turbine,1894,1894,0,1,0,0.0000,OK
+2014-05-01,Total all types of electricity generation,813662,813662,0,2,0,0.0000,OK
+2014-05-01,Wind power turbine,28829,28829,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-06-01,Combustion turbine,21814,21814,0,1,0,0.0000,OK
+2014-06-01,Conventional steam turbine,596053,596053,0,2,0,0.0000,OK
+2014-06-01,Hydraulic turbine,62031,62031,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-06-01,Tidal power turbine,1865,1865,0,1,0,0.0000,OK
+2014-06-01,Total all types of electricity generation,711225,711225,0,2,0,0.0000,OK
+2014-06-01,Wind power turbine,29462,29462,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-07-01,Combustion turbine,41068,41068,0,1,0,0.0000,OK
+2014-07-01,Conventional steam turbine,607053,607053,0,2,0,0.0000,OK
+2014-07-01,Hydraulic turbine,39335,39335,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-07-01,Tidal power turbine,586,586,0,1,0,0.0000,OK
+2014-07-01,Total all types of electricity generation,733226,733226,0,2,0,0.0000,OK
+2014-07-01,Wind power turbine,45184,45184,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-08-01,Combustion turbine,84606,84606,0,1,0,0.0000,OK
+2014-08-01,Conventional steam turbine,610018,610018,0,2,0,0.0000,OK
+2014-08-01,Hydraulic turbine,35915,35915,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-08-01,Tidal power turbine,1781,1781,0,1,0,0.0000,OK
+2014-08-01,Total all types of electricity generation,757813,757813,0,2,0,0.0000,OK
+2014-08-01,Wind power turbine,25493,25493,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-09-01,Combustion turbine,70023,70023,0,1,0,0.0000,OK
+2014-09-01,Conventional steam turbine,503004,503004,0,2,0,0.0000,OK
+2014-09-01,Hydraulic turbine,52919,52919,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-09-01,Tidal power turbine,1681,1681,0,1,0,0.0000,OK
+2014-09-01,Total all types of electricity generation,662402,662402,0,2,0,0.0000,OK
+2014-09-01,Wind power turbine,34775,34775,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-10-01,Combustion turbine,40539,40539,0,1,0,0.0000,OK
+2014-10-01,Conventional steam turbine,557429,557429,0,2,0,0.0000,OK
+2014-10-01,Hydraulic turbine,56224,56224,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-10-01,Tidal power turbine,1376,1376,0,1,0,0.0000,OK
+2014-10-01,Total all types of electricity generation,700622,700622,0,2,0,0.0000,OK
+2014-10-01,Wind power turbine,45054,45054,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-11-01,Combustion turbine,18962,18962,0,1,0,0.0000,OK
+2014-11-01,Conventional steam turbine,695789,695789,0,2,0,0.0000,OK
+2014-11-01,Hydraulic turbine,104423,104423,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-11-01,Tidal power turbine,-4,-4,0,1,0,0.0000,OK
+2014-11-01,Total all types of electricity generation,869441,869441,0,2,0,0.0000,OK
+2014-11-01,Wind power turbine,50271,50271,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-12-01,Combustion turbine,51929,51929,0,1,0,0.0000,OK
+2014-12-01,Conventional steam turbine,732406,732406,0,2,0,0.0000,OK
+2014-12-01,Hydraulic turbine,153022,153022,1,2,0,0.0000,SUPPRESSED_SOURCE
+2014-12-01,Tidal power turbine,-94,-94,0,1,0,0.0000,OK
+2014-12-01,Total all types of electricity generation,984552,984552,0,2,0,0.0000,OK
+2014-12-01,Wind power turbine,47289,47289,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-01-01,Combustion turbine,37469,37469,0,1,0,0.0000,OK
+2015-01-01,Conventional steam turbine,920945,920945,0,2,0,0.0000,OK
+2015-01-01,Hydraulic turbine,101627,101627,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-01-01,Tidal power turbine,-124,-124,0,1,0,0.0000,OK
+2015-01-01,Total all types of electricity generation,1107786,1107786,0,2,0,0.0000,OK
+2015-01-01,Wind power turbine,47869,47869,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-02-01,Combustion turbine,29331,29331,0,1,0,0.0000,OK
+2015-02-01,Conventional steam turbine,888613,888613,0,2,0,0.0000,OK
+2015-02-01,Hydraulic turbine,109073,109073,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-02-01,Tidal power turbine,-164,-164,0,1,0,0.0000,OK
+2015-02-01,Total all types of electricity generation,1069732,1069732,0,2,0,0.0000,OK
+2015-02-01,Wind power turbine,42879,42879,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-03-01,Combustion turbine,56309,56309,0,1,0,0.0000,OK
+2015-03-01,Conventional steam turbine,857233,857233,0,2,0,0.0000,OK
+2015-03-01,Hydraulic turbine,103649,103649,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-03-01,Tidal power turbine,-13,-13,0,1,0,0.0000,OK
+2015-03-01,Total all types of electricity generation,1065951,1065951,0,2,0,0.0000,OK
+2015-03-01,Wind power turbine,48773,48773,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-04-01,Combustion turbine,57885,57885,0,1,0,0.0000,OK
+2015-04-01,Conventional steam turbine,658696,658696,0,2,0,0.0000,OK
+2015-04-01,Hydraulic turbine,101702,101702,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-04-01,Tidal power turbine,1538,1538,0,1,0,0.0000,OK
+2015-04-01,Total all types of electricity generation,859504,859504,0,2,0,0.0000,OK
+2015-04-01,Wind power turbine,39683,39683,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-05-01,Combustion turbine,39655,39655,0,1,0,0.0000,OK
+2015-05-01,Conventional steam turbine,460609,460609,0,2,0,0.0000,OK
+2015-05-01,Hydraulic turbine,124550,124550,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-05-01,Tidal power turbine,1615,1615,0,1,0,0.0000,OK
+2015-05-01,Total all types of electricity generation,670071,670071,0,2,0,0.0000,OK
+2015-05-01,Wind power turbine,43642,43642,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-06-01,Combustion turbine,64361,64361,0,1,0,0.0000,OK
+2015-06-01,Conventional steam turbine,459052,459052,0,2,0,0.0000,OK
+2015-06-01,Hydraulic turbine,105648,105648,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-06-01,Tidal power turbine,1951,1951,0,1,0,0.0000,OK
+2015-06-01,Total all types of electricity generation,668170,668170,0,2,0,0.0000,OK
+2015-06-01,Wind power turbine,37158,37158,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-07-01,Combustion turbine,61496,61496,0,1,0,0.0000,OK
+2015-07-01,Conventional steam turbine,552601,552601,0,2,0,0.0000,OK
+2015-07-01,Hydraulic turbine,78570,78570,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-07-01,Tidal power turbine,870,870,0,1,0,0.0000,OK
+2015-07-01,Total all types of electricity generation,718609,718609,0,2,0,0.0000,OK
+2015-07-01,Wind power turbine,25072,25072,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-08-01,Combustion turbine,37075,37075,0,1,0,0.0000,OK
+2015-08-01,Conventional steam turbine,603747,603747,0,2,0,0.0000,OK
+2015-08-01,Hydraulic turbine,65891,65891,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-08-01,Tidal power turbine,22,22,0,1,0,0.0000,OK
+2015-08-01,Total all types of electricity generation,734271,734271,0,2,0,0.0000,OK
+2015-08-01,Wind power turbine,27536,27536,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-09-01,Combustion turbine,15509,15509,0,1,0,0.0000,OK
+2015-09-01,Conventional steam turbine,545125,545125,0,2,0,0.0000,OK
+2015-09-01,Hydraulic turbine,64474,64474,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-09-01,Tidal power turbine,1791,1791,0,1,0,0.0000,OK
+2015-09-01,Total all types of electricity generation,663572,663572,0,2,0,0.0000,OK
+2015-09-01,Wind power turbine,36673,36673,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-10-01,Combustion turbine,46617,46617,0,1,0,0.0000,OK
+2015-10-01,Conventional steam turbine,578180,578180,0,2,0,0.0000,OK
+2015-10-01,Hydraulic turbine,35164,35164,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-10-01,Tidal power turbine,1524,1524,0,1,0,0.0000,OK
+2015-10-01,Total all types of electricity generation,711866,711866,0,2,0,0.0000,OK
+2015-10-01,Wind power turbine,50381,50381,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-11-01,Combustion turbine,44690,44690,0,1,0,0.0000,OK
+2015-11-01,Conventional steam turbine,626172,626172,0,2,0,0.0000,OK
+2015-11-01,Hydraulic turbine,38256,38256,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-11-01,Tidal power turbine,1979,1979,0,1,0,0.0000,OK
+2015-11-01,Total all types of electricity generation,757205,757205,0,2,0,0.0000,OK
+2015-11-01,Wind power turbine,46108,46108,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-12-01,Combustion turbine,52597,52597,0,1,0,0.0000,OK
+2015-12-01,Conventional steam turbine,675829,675829,0,2,0,0.0000,OK
+2015-12-01,Hydraulic turbine,74700,74700,1,2,0,0.0000,SUPPRESSED_SOURCE
+2015-12-01,Tidal power turbine,1831,1831,0,1,0,0.0000,OK
+2015-12-01,Total all types of electricity generation,847792,847792,0,2,0,0.0000,OK
+2015-12-01,Wind power turbine,42835,42835,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-01-01,Hydraulic turbine,92922,92922,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-01-01,Solar,0,0,0,2,0,,OK
+2016-01-01,Tidal power turbine,1257,1257,0,2,0,0.0000,OK
+2016-01-01,Total all types of electricity generation,1024849,1024849,0,2,0,0.0000,OK
+2016-01-01,Total electricity production from combustible fuels,823926,823926,0,2,0,0.0000,OK
+2016-01-01,Wind power turbine,106744,106744,0,2,0,0.0000,OK
+2016-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-02-01,Hydraulic turbine,115791,115791,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-02-01,Solar,0,0,0,2,0,,OK
+2016-02-01,Tidal power turbine,1782,1782,0,2,0,0.0000,OK
+2016-02-01,Total all types of electricity generation,910561,910561,0,2,0,0.0000,OK
+2016-02-01,Total electricity production from combustible fuels,700949,700949,0,2,0,0.0000,OK
+2016-02-01,Wind power turbine,92039,92039,0,2,0,0.0000,OK
+2016-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-03-01,Hydraulic turbine,123478,123478,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-03-01,Solar,0,0,0,2,0,,OK
+2016-03-01,Tidal power turbine,1901,1901,0,2,0,0.0000,OK
+2016-03-01,Total all types of electricity generation,951946,951946,0,2,0,0.0000,OK
+2016-03-01,Total electricity production from combustible fuels,735956,735956,0,2,0,0.0000,OK
+2016-03-01,Wind power turbine,90611,90611,0,2,0,0.0000,OK
+2016-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-04-01,Hydraulic turbine,111394,111394,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-04-01,Solar,0,0,0,2,0,,OK
+2016-04-01,Tidal power turbine,1800,1800,0,2,0,0.0000,OK
+2016-04-01,Total all types of electricity generation,791079,791079,0,2,0,0.0000,OK
+2016-04-01,Total electricity production from combustible fuels,593943,593943,0,2,0,0.0000,OK
+2016-04-01,Wind power turbine,83942,83942,0,2,0,0.0000,OK
+2016-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-05-01,Hydraulic turbine,95163,95163,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-05-01,Solar,0,0,0,2,0,,OK
+2016-05-01,Tidal power turbine,1803,1803,0,2,0,0.0000,OK
+2016-05-01,Total all types of electricity generation,751409,751409,0,2,0,0.0000,OK
+2016-05-01,Total electricity production from combustible fuels,587239,587239,0,2,0,0.0000,OK
+2016-05-01,Wind power turbine,67204,67204,0,2,0,0.0000,OK
+2016-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-06-01,Hydraulic turbine,48131,48131,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-06-01,Solar,0,0,0,2,0,,OK
+2016-06-01,Tidal power turbine,1314,1314,0,2,0,0.0000,OK
+2016-06-01,Total all types of electricity generation,663192,663192,0,2,0,0.0000,OK
+2016-06-01,Total electricity production from combustible fuels,546213,546213,0,2,0,0.0000,OK
+2016-06-01,Wind power turbine,67534,67534,0,2,0,0.0000,OK
+2016-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-07-01,Hydraulic turbine,34819,34819,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-07-01,Solar,0,0,0,2,0,,OK
+2016-07-01,Tidal power turbine,1171,1171,0,2,0,0.0000,OK
+2016-07-01,Total all types of electricity generation,706592,706592,0,2,0,0.0000,OK
+2016-07-01,Total electricity production from combustible fuels,614351,614351,0,2,0,0.0000,OK
+2016-07-01,Wind power turbine,56251,56251,0,2,0,0.0000,OK
+2016-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-08-01,Hydraulic turbine,28467,28467,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-08-01,Solar,0,0,0,2,0,,OK
+2016-08-01,Tidal power turbine,1923,1923,0,2,0,0.0000,OK
+2016-08-01,Total all types of electricity generation,732723,732723,0,2,0,0.0000,OK
+2016-08-01,Total electricity production from combustible fuels,647547,647547,0,2,0,0.0000,OK
+2016-08-01,Wind power turbine,54786,54786,0,2,0,0.0000,OK
+2016-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-09-01,Hydraulic turbine,20608,20608,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-09-01,Solar,0,0,0,2,0,,OK
+2016-09-01,Tidal power turbine,1415,1415,0,2,0,0.0000,OK
+2016-09-01,Total all types of electricity generation,683001,683001,0,2,0,0.0000,OK
+2016-09-01,Total electricity production from combustible fuels,584591,584591,0,2,0,0.0000,OK
+2016-09-01,Wind power turbine,76387,76387,0,2,0,0.0000,OK
+2016-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-10-01,Hydraulic turbine,32568,32568,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-10-01,Solar,0,0,0,2,0,,OK
+2016-10-01,Tidal power turbine,1108,1108,0,2,0,0.0000,OK
+2016-10-01,Total all types of electricity generation,759829,759829,0,2,0,0.0000,OK
+2016-10-01,Total electricity production from combustible fuels,628298,628298,0,2,0,0.0000,OK
+2016-10-01,Wind power turbine,97855,97855,0,2,0,0.0000,OK
+2016-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-11-01,Hydraulic turbine,61033,61033,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-11-01,Solar,0,0,0,2,0,,OK
+2016-11-01,Tidal power turbine,1665,1665,0,2,0,0.0000,OK
+2016-11-01,Total all types of electricity generation,835474,835474,0,2,0,0.0000,OK
+2016-11-01,Total electricity production from combustible fuels,675770,675770,0,2,0,0.0000,OK
+2016-11-01,Wind power turbine,97006,97006,0,2,0,0.0000,OK
+2016-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2016-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2016-12-01,Hydraulic turbine,39114,39114,1,2,0,0.0000,SUPPRESSED_SOURCE
+2016-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2016-12-01,Solar,0,0,0,2,0,,OK
+2016-12-01,Tidal power turbine,1408,1408,0,2,0,0.0000,OK
+2016-12-01,Total all types of electricity generation,1009910,1009910,0,2,0,0.0000,OK
+2016-12-01,Total electricity production from combustible fuels,859330,859330,0,2,0,0.0000,OK
+2016-12-01,Wind power turbine,110058,110058,0,2,0,0.0000,OK
+2017-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-01-01,Hydraulic turbine,90629,90629,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-01-01,Solar,0,0,0,2,0,,OK
+2017-01-01,Tidal power turbine,1723,1723,0,2,0,0.0000,OK
+2017-01-01,Total all types of electricity generation,1049601,1049601,0,2,0,0.0000,OK
+2017-01-01,Total electricity production from combustible fuels,859399,859399,0,2,0,0.0000,OK
+2017-01-01,Wind power turbine,97850,97850,0,2,0,0.0000,OK
+2017-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-02-01,Hydraulic turbine,91456,91456,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-02-01,Solar,0,0,0,2,0,,OK
+2017-02-01,Tidal power turbine,1562,1562,0,2,0,0.0000,OK
+2017-02-01,Total all types of electricity generation,963383,963383,0,2,0,0.0000,OK
+2017-02-01,Total electricity production from combustible fuels,752049,752049,0,2,0,0.0000,OK
+2017-02-01,Wind power turbine,118316,118316,0,2,0,0.0000,OK
+2017-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-03-01,Hydraulic turbine,117440,117440,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-03-01,Solar,0,0,0,2,0,,OK
+2017-03-01,Tidal power turbine,430,430,0,2,0,0.0000,OK
+2017-03-01,Total all types of electricity generation,1026938,1026938,0,2,0,0.0000,OK
+2017-03-01,Total electricity production from combustible fuels,769588,769588,0,2,0,0.0000,OK
+2017-03-01,Wind power turbine,139480,139480,0,2,0,0.0000,OK
+2017-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-04-01,Hydraulic turbine,97915,97915,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-04-01,Solar,0,0,0,2,0,,OK
+2017-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2017-04-01,Total all types of electricity generation,848142,848142,0,2,0,0.0000,OK
+2017-04-01,Total electricity production from combustible fuels,648591,648591,0,2,0,0.0000,OK
+2017-04-01,Wind power turbine,101636,101636,0,2,0,0.0000,OK
+2017-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-05-01,Hydraulic turbine,133048,133048,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-05-01,Solar,0,0,0,2,0,,OK
+2017-05-01,Tidal power turbine,419,419,0,2,0,0.0000,OK
+2017-05-01,Total all types of electricity generation,769855,769855,0,2,0,0.0000,OK
+2017-05-01,Total electricity production from combustible fuels,534998,534998,0,2,0,0.0000,OK
+2017-05-01,Wind power turbine,101390,101390,0,2,0,0.0000,OK
+2017-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-06-01,Hydraulic turbine,89506,89506,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-06-01,Solar,0,0,0,2,0,,OK
+2017-06-01,Tidal power turbine,1316,1316,0,2,0,0.0000,OK
+2017-06-01,Total all types of electricity generation,718731,718731,0,2,0,0.0000,OK
+2017-06-01,Total electricity production from combustible fuels,527803,527803,0,2,0,0.0000,OK
+2017-06-01,Wind power turbine,100106,100106,0,2,0,0.0000,OK
+2017-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-07-01,Hydraulic turbine,56649,56649,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-07-01,Solar,0,0,0,2,0,,OK
+2017-07-01,Tidal power turbine,482,482,0,2,0,0.0000,OK
+2017-07-01,Total all types of electricity generation,710903,710903,0,2,0,0.0000,OK
+2017-07-01,Total electricity production from combustible fuels,584889,584889,0,2,0,0.0000,OK
+2017-07-01,Wind power turbine,68883,68883,0,2,0,0.0000,OK
+2017-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-08-01,Hydraulic turbine,39972,39972,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-08-01,Solar,0,0,0,2,0,,OK
+2017-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2017-08-01,Total all types of electricity generation,763552,763552,0,2,0,0.0000,OK
+2017-08-01,Total electricity production from combustible fuels,652676,652676,0,2,0,0.0000,OK
+2017-08-01,Wind power turbine,70904,70904,0,2,0,0.0000,OK
+2017-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-09-01,Hydraulic turbine,23624,23624,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-09-01,Solar,0,0,0,2,0,,OK
+2017-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2017-09-01,Total all types of electricity generation,674600,674600,0,2,0,0.0000,OK
+2017-09-01,Total electricity production from combustible fuels,559487,559487,0,2,0,0.0000,OK
+2017-09-01,Wind power turbine,91489,91489,0,2,0,0.0000,OK
+2017-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-10-01,Hydraulic turbine,24164,24164,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-10-01,Solar,0,0,0,2,0,,OK
+2017-10-01,Tidal power turbine,25,25,0,2,0,0.0000,OK
+2017-10-01,Total all types of electricity generation,658252,658252,0,2,0,0.0000,OK
+2017-10-01,Total electricity production from combustible fuels,497309,497309,0,2,0,0.0000,OK
+2017-10-01,Wind power turbine,136754,136754,0,2,0,0.0000,OK
+2017-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-11-01,Hydraulic turbine,24327,24327,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-11-01,Solar,0,0,0,2,0,,OK
+2017-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2017-11-01,Total all types of electricity generation,782138,782138,0,2,0,0.0000,OK
+2017-11-01,Total electricity production from combustible fuels,615888,615888,0,2,0,0.0000,OK
+2017-11-01,Wind power turbine,141923,141923,0,2,0,0.0000,OK
+2017-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2017-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2017-12-01,Hydraulic turbine,60210,60210,1,2,0,0.0000,SUPPRESSED_SOURCE
+2017-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2017-12-01,Solar,0,0,0,2,0,,OK
+2017-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2017-12-01,Total all types of electricity generation,1068376,1068376,0,2,0,0.0000,OK
+2017-12-01,Total electricity production from combustible fuels,867565,867565,0,2,0,0.0000,OK
+2017-12-01,Wind power turbine,140601,140601,0,2,0,0.0000,OK
+2018-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-01-01,Hydraulic turbine,103246,103246,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-01-01,Solar,0,0,0,2,0,,OK
+2018-01-01,Tidal power turbine,112,112,0,2,0,0.0000,OK
+2018-01-01,Total all types of electricity generation,1108134,1108134,0,2,0,0.0000,OK
+2018-01-01,Total electricity production from combustible fuels,881677,881677,0,2,0,0.0000,OK
+2018-01-01,Wind power turbine,123099,123099,0,2,0,0.0000,OK
+2018-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-02-01,Hydraulic turbine,106972,106972,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-02-01,Solar,0,0,0,2,0,,OK
+2018-02-01,Tidal power turbine,1804,1804,0,2,0,0.0000,OK
+2018-02-01,Total all types of electricity generation,971068,971068,0,2,0,0.0000,OK
+2018-02-01,Total electricity production from combustible fuels,752654,752654,0,2,0,0.0000,OK
+2018-02-01,Wind power turbine,109638,109638,0,2,0,0.0000,OK
+2018-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-03-01,Hydraulic turbine,94225,94225,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-03-01,Solar,0,0,0,2,0,,OK
+2018-03-01,Tidal power turbine,1754,1754,0,2,0,0.0000,OK
+2018-03-01,Total all types of electricity generation,963609,963609,0,2,0,0.0000,OK
+2018-03-01,Total electricity production from combustible fuels,748951,748951,0,2,0,0.0000,OK
+2018-03-01,Wind power turbine,118679,118679,0,2,0,0.0000,OK
+2018-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-04-01,Hydraulic turbine,110612,110612,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-04-01,Solar,0,0,0,2,0,,OK
+2018-04-01,Tidal power turbine,2098,2098,0,2,0,0.0000,OK
+2018-04-01,Total all types of electricity generation,853457,853457,0,2,0,0.0000,OK
+2018-04-01,Total electricity production from combustible fuels,634249,634249,0,2,0,0.0000,OK
+2018-04-01,Wind power turbine,106498,106498,0,2,0,0.0000,OK
+2018-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-05-01,Hydraulic turbine,106853,106853,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-05-01,Solar,0,0,0,2,0,,OK
+2018-05-01,Tidal power turbine,1969,1969,0,2,0,0.0000,OK
+2018-05-01,Total all types of electricity generation,768184,768184,0,2,0,0.0000,OK
+2018-05-01,Total electricity production from combustible fuels,565732,565732,0,2,0,0.0000,OK
+2018-05-01,Wind power turbine,93630,93630,0,2,0,0.0000,OK
+2018-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-06-01,Hydraulic turbine,60778,60778,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-06-01,Solar,0,0,0,2,0,,OK
+2018-06-01,Tidal power turbine,1645,1645,0,2,0,0.0000,OK
+2018-06-01,Total all types of electricity generation,692314,692314,0,2,0,0.0000,OK
+2018-06-01,Total electricity production from combustible fuels,541156,541156,0,2,0,0.0000,OK
+2018-06-01,Wind power turbine,88735,88735,0,2,0,0.0000,OK
+2018-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-07-01,Hydraulic turbine,55072,55072,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-07-01,Solar,0,0,0,2,0,,OK
+2018-07-01,Tidal power turbine,1830,1830,0,2,0,0.0000,OK
+2018-07-01,Total all types of electricity generation,723837,723837,0,2,0,0.0000,OK
+2018-07-01,Total electricity production from combustible fuels,592452,592452,0,2,0,0.0000,OK
+2018-07-01,Wind power turbine,74483,74483,0,2,0,0.0000,OK
+2018-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-08-01,Hydraulic turbine,22558,22558,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-08-01,Solar,0,0,0,2,0,,OK
+2018-08-01,Tidal power turbine,1521,1521,0,2,0,0.0000,OK
+2018-08-01,Total all types of electricity generation,741427,741427,0,2,0,0.0000,OK
+2018-08-01,Total electricity production from combustible fuels,659069,659069,0,2,0,0.0000,OK
+2018-08-01,Wind power turbine,58279,58279,0,2,0,0.0000,OK
+2018-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-09-01,Hydraulic turbine,19942,19942,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-09-01,Solar,0,0,0,2,0,,OK
+2018-09-01,Tidal power turbine,1447,1447,0,2,0,0.0000,OK
+2018-09-01,Total all types of electricity generation,687042,687042,0,2,0,0.0000,OK
+2018-09-01,Total electricity production from combustible fuels,587495,587495,0,2,0,0.0000,OK
+2018-09-01,Wind power turbine,78158,78158,0,2,0,0.0000,OK
+2018-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-10-01,Hydraulic turbine,40027,40027,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-10-01,Solar,0,0,0,2,0,,OK
+2018-10-01,Tidal power turbine,2185,2185,0,2,0,0.0000,OK
+2018-10-01,Total all types of electricity generation,769354,769354,0,2,0,0.0000,OK
+2018-10-01,Total electricity production from combustible fuels,612964,612964,0,2,0,0.0000,OK
+2018-10-01,Wind power turbine,114178,114178,0,2,0,0.0000,OK
+2018-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-11-01,Hydraulic turbine,92871,92871,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-11-01,Solar,0,0,0,2,0,,OK
+2018-11-01,Tidal power turbine,1396,1396,0,2,0,0.0000,OK
+2018-11-01,Total all types of electricity generation,875399,875399,0,2,0,0.0000,OK
+2018-11-01,Total electricity production from combustible fuels,657608,657608,0,2,0,0.0000,OK
+2018-11-01,Wind power turbine,123524,123524,0,2,0,0.0000,OK
+2018-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2018-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2018-12-01,Hydraulic turbine,108709,108709,1,2,0,0.0000,SUPPRESSED_SOURCE
+2018-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2018-12-01,Solar,0,0,0,2,0,,OK
+2018-12-01,Tidal power turbine,1764,1764,0,2,0,0.0000,OK
+2018-12-01,Total all types of electricity generation,1055270,1055270,0,2,0,0.0000,OK
+2018-12-01,Total electricity production from combustible fuels,841619,841619,0,2,0,0.0000,OK
+2018-12-01,Wind power turbine,103178,103178,0,2,0,0.0000,OK
+2019-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-01-01,Hydraulic turbine,109408,109408,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-01-01,Solar,0,0,0,2,0,,OK
+2019-01-01,Tidal power turbine,883,883,0,2,0,0.0000,OK
+2019-01-01,Total all types of electricity generation,1099806,1099806,0,2,0,0.0000,OK
+2019-01-01,Total electricity production from combustible fuels,890311,890311,0,2,0,0.0000,OK
+2019-01-01,Wind power turbine,99204,99204,0,2,0,0.0000,OK
+2019-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-02-01,Hydraulic turbine,96675,96675,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-02-01,Solar,0,0,0,2,0,,OK
+2019-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-02-01,Total all types of electricity generation,1001097,1001097,0,2,0,0.0000,OK
+2019-02-01,Total electricity production from combustible fuels,798250,798250,0,2,0,0.0000,OK
+2019-02-01,Wind power turbine,106172,106172,0,2,0,0.0000,OK
+2019-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-03-01,Hydraulic turbine,87293,87293,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-03-01,Solar,0,0,0,2,0,,OK
+2019-03-01,Tidal power turbine,37,37,0,2,0,0.0000,OK
+2019-03-01,Total all types of electricity generation,1005501,1005501,0,2,0,0.0000,OK
+2019-03-01,Total electricity production from combustible fuels,801075,801075,0,2,0,0.0000,OK
+2019-03-01,Wind power turbine,117096,117096,0,2,0,0.0000,OK
+2019-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-04-01,Hydraulic turbine,128977,128977,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-04-01,Solar,0,0,0,2,0,,OK
+2019-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-04-01,Total all types of electricity generation,819775,819775,0,2,0,0.0000,OK
+2019-04-01,Total electricity production from combustible fuels,569245,569245,0,2,0,0.0000,OK
+2019-04-01,Wind power turbine,121553,121553,0,2,0,0.0000,OK
+2019-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-05-01,Hydraulic turbine,121955,121955,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-05-01,Solar,0,0,0,2,0,,OK
+2019-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-05-01,Total all types of electricity generation,716703,716703,0,2,0,0.0000,OK
+2019-05-01,Total electricity production from combustible fuels,513588,513588,0,2,0,0.0000,OK
+2019-05-01,Wind power turbine,81160,81160,0,2,0,0.0000,OK
+2019-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-06-01,Hydraulic turbine,99949,99949,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-06-01,Solar,0,0,0,2,0,,OK
+2019-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-06-01,Total all types of electricity generation,614041,614041,0,2,0,0.0000,OK
+2019-06-01,Total electricity production from combustible fuels,438773,438773,0,2,0,0.0000,OK
+2019-06-01,Wind power turbine,75319,75319,0,2,0,0.0000,OK
+2019-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-07-01,Hydraulic turbine,87261,87261,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-07-01,Solar,0,0,0,2,0,,OK
+2019-07-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-07-01,Total all types of electricity generation,701966,701966,0,2,0,0.0000,OK
+2019-07-01,Total electricity production from combustible fuels,553174,553174,0,2,0,0.0000,OK
+2019-07-01,Wind power turbine,61531,61531,0,2,0,0.0000,OK
+2019-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-08-01,Hydraulic turbine,30462,30462,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-08-01,Solar,0,0,0,2,0,,OK
+2019-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-08-01,Total all types of electricity generation,705033,705033,0,2,0,0.0000,OK
+2019-08-01,Total electricity production from combustible fuels,611571,611571,0,2,0,0.0000,OK
+2019-08-01,Wind power turbine,63000,63000,0,2,0,0.0000,OK
+2019-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-09-01,Hydraulic turbine,39973,39973,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-09-01,Solar,0,0,0,2,0,,OK
+2019-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-09-01,Total all types of electricity generation,591561,591561,0,2,0,0.0000,OK
+2019-09-01,Total electricity production from combustible fuels,477968,477968,0,2,0,0.0000,OK
+2019-09-01,Wind power turbine,73620,73620,0,2,0,0.0000,OK
+2019-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-10-01,Hydraulic turbine,38781,38781,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-10-01,Solar,0,0,0,2,0,,OK
+2019-10-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-10-01,Total all types of electricity generation,687153,687153,0,2,0,0.0000,OK
+2019-10-01,Total electricity production from combustible fuels,559825,559825,0,2,0,0.0000,OK
+2019-10-01,Wind power turbine,88547,88547,0,2,0,0.0000,OK
+2019-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-11-01,Hydraulic turbine,60652,60652,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-11-01,Solar,0,0,0,2,0,,OK
+2019-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-11-01,Total all types of electricity generation,793917,793917,0,2,0,0.0000,OK
+2019-11-01,Total electricity production from combustible fuels,634074,634074,0,2,0,0.0000,OK
+2019-11-01,Wind power turbine,99191,99191,0,2,0,0.0000,OK
+2019-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2019-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2019-12-01,Hydraulic turbine,135697,135697,1,2,0,0.0000,SUPPRESSED_SOURCE
+2019-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2019-12-01,Solar,0,0,0,2,0,,OK
+2019-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2019-12-01,Total all types of electricity generation,1000746,1000746,0,2,0,0.0000,OK
+2019-12-01,Total electricity production from combustible fuels,760711,760711,0,2,0,0.0000,OK
+2019-12-01,Wind power turbine,104338,104338,0,2,0,0.0000,OK
+2020-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-01-01,Hydraulic turbine,105119,105119,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-01-01,Solar,0,0,0,2,0,,OK
+2020-01-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-01-01,Total all types of electricity generation,1068267,1068267,0,2,0,0.0000,OK
+2020-01-01,Total electricity production from biomass,25337,25337,0,2,0,0.0000,OK
+2020-01-01,Total electricity production from combustible fuels,887783,887783,0,2,0,0.0000,OK
+2020-01-01,Total electricity production from non-renewable combustible fuels,862446,862446,0,2,0,0.0000,OK
+2020-01-01,Wind power turbine,75365,75365,0,2,0,0.0000,OK
+2020-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-02-01,Hydraulic turbine,89289,89289,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-02-01,Solar,0,0,0,2,0,,OK
+2020-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-02-01,Total all types of electricity generation,954798,954798,0,2,0,0.0000,OK
+2020-02-01,Total electricity production from biomass,15140,15140,0,2,0,0.0000,OK
+2020-02-01,Total electricity production from combustible fuels,789291,789291,0,2,0,0.0000,OK
+2020-02-01,Total electricity production from non-renewable combustible fuels,774151,774151,0,2,0,0.0000,OK
+2020-02-01,Wind power turbine,76218,76218,0,2,0,0.0000,OK
+2020-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-03-01,Hydraulic turbine,89935,89935,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-03-01,Solar,0,0,0,2,0,,OK
+2020-03-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-03-01,Total all types of electricity generation,918320,918320,0,2,0,0.0000,OK
+2020-03-01,Total electricity production from biomass,20875,20875,0,2,0,0.0000,OK
+2020-03-01,Total electricity production from combustible fuels,734338,734338,0,2,0,0.0000,OK
+2020-03-01,Total electricity production from non-renewable combustible fuels,713463,713463,0,2,0,0.0000,OK
+2020-03-01,Wind power turbine,94047,94047,0,2,0,0.0000,OK
+2020-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-04-01,Hydraulic turbine,104893,104893,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-04-01,Solar,0,0,0,2,0,,OK
+2020-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-04-01,Total all types of electricity generation,686408,686408,0,2,0,0.0000,OK
+2020-04-01,Total electricity production from biomass,14780,14780,0,2,0,0.0000,OK
+2020-04-01,Total electricity production from combustible fuels,495056,495056,0,2,0,0.0000,OK
+2020-04-01,Total electricity production from non-renewable combustible fuels,480276,480276,0,2,0,0.0000,OK
+2020-04-01,Wind power turbine,86459,86459,0,2,0,0.0000,OK
+2020-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-05-01,Hydraulic turbine,96091,96091,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-05-01,Solar,0,0,0,2,0,,OK
+2020-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-05-01,Total all types of electricity generation,618704,618704,0,2,0,0.0000,OK
+2020-05-01,Total electricity production from biomass,4800,4800,0,2,0,0.0000,OK
+2020-05-01,Total electricity production from combustible fuels,432053,432053,0,2,0,0.0000,OK
+2020-05-01,Total electricity production from non-renewable combustible fuels,427253,427253,0,2,0,0.0000,OK
+2020-05-01,Wind power turbine,90560,90560,0,2,0,0.0000,OK
+2020-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-06-01,Hydraulic turbine,50232,50232,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-06-01,Solar,0,0,0,2,0,,OK
+2020-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-06-01,Total all types of electricity generation,595432,595432,0,2,0,0.0000,OK
+2020-06-01,Total electricity production from biomass,26734,26734,0,2,0,0.0000,OK
+2020-06-01,Total electricity production from combustible fuels,484883,484883,0,2,0,0.0000,OK
+2020-06-01,Total electricity production from non-renewable combustible fuels,458149,458149,0,2,0,0.0000,OK
+2020-06-01,Wind power turbine,60317,60317,0,2,0,0.0000,OK
+2020-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-07-01,Hydraulic turbine,39126,39126,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-07-01,Solar,0,0,0,2,0,,OK
+2020-07-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-07-01,Total all types of electricity generation,697538,697538,0,2,0,0.0000,OK
+2020-07-01,Total electricity production from biomass,31080,31080,0,2,0,0.0000,OK
+2020-07-01,Total electricity production from combustible fuels,616373,616373,0,2,0,0.0000,OK
+2020-07-01,Total electricity production from non-renewable combustible fuels,585293,585293,0,2,0,0.0000,OK
+2020-07-01,Wind power turbine,42039,42039,0,2,0,0.0000,OK
+2020-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-08-01,Hydraulic turbine,15646,15646,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-08-01,Solar,0,0,0,2,0,,OK
+2020-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-08-01,Total all types of electricity generation,681972,681972,0,2,0,0.0000,OK
+2020-08-01,Total electricity production from biomass,36090,36090,0,2,0,0.0000,OK
+2020-08-01,Total electricity production from combustible fuels,608645,608645,0,2,0,0.0000,OK
+2020-08-01,Total electricity production from non-renewable combustible fuels,572555,572555,0,2,0,0.0000,OK
+2020-08-01,Wind power turbine,57681,57681,0,2,0,0.0000,OK
+2020-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-09-01,Hydraulic turbine,18318,18318,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-09-01,Solar,0,0,0,2,0,,OK
+2020-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-09-01,Total all types of electricity generation,646301,646301,0,2,0,0.0000,OK
+2020-09-01,Total electricity production from biomass,31134,31134,0,2,0,0.0000,OK
+2020-09-01,Total electricity production from combustible fuels,555531,555531,0,2,0,0.0000,OK
+2020-09-01,Total electricity production from non-renewable combustible fuels,524397,524397,0,2,0,0.0000,OK
+2020-09-01,Wind power turbine,72452,72452,0,2,0,0.0000,OK
+2020-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-10-01,Hydraulic turbine,23118,23118,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-10-01,Solar,0,0,0,2,0,,OK
+2020-10-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-10-01,Total all types of electricity generation,671220,671220,0,2,0,0.0000,OK
+2020-10-01,Total electricity production from biomass,15010,15010,0,2,0,0.0000,OK
+2020-10-01,Total electricity production from combustible fuels,568161,568161,0,2,0,0.0000,OK
+2020-10-01,Total electricity production from non-renewable combustible fuels,553151,553151,0,2,0,0.0000,OK
+2020-10-01,Wind power turbine,79941,79941,0,2,0,0.0000,OK
+2020-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-11-01,Hydraulic turbine,38000,38000,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-11-01,Solar,0,0,0,2,0,,OK
+2020-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-11-01,Total all types of electricity generation,722094,722094,0,2,0,0.0000,OK
+2020-11-01,Total electricity production from biomass,8421,8421,0,2,0,0.0000,OK
+2020-11-01,Total electricity production from combustible fuels,596482,596482,0,2,0,0.0000,OK
+2020-11-01,Total electricity production from non-renewable combustible fuels,588061,588061,0,2,0,0.0000,OK
+2020-11-01,Wind power turbine,87612,87612,0,2,0,0.0000,OK
+2020-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2020-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2020-12-01,Hydraulic turbine,84350,84350,1,2,0,0.0000,SUPPRESSED_SOURCE
+2020-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2020-12-01,Solar,0,0,0,2,0,,OK
+2020-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2020-12-01,Total all types of electricity generation,829737,829737,0,2,0,0.0000,OK
+2020-12-01,Total electricity production from biomass,27097,27097,0,2,0,0.0000,OK
+2020-12-01,Total electricity production from combustible fuels,657691,657691,0,2,0,0.0000,OK
+2020-12-01,Total electricity production from non-renewable combustible fuels,630594,630594,0,2,0,0.0000,OK
+2020-12-01,Wind power turbine,87696,87696,0,2,0,0.0000,OK
+2021-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-01-01,Hydraulic turbine,88301,88301,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-01-01,Solar,0,0,0,2,0,,OK
+2021-01-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-01-01,Total all types of electricity generation,980708,980708,0,2,0,0.0000,OK
+2021-01-01,Total electricity production from biomass,31824,31824,0,2,0,0.0000,OK
+2021-01-01,Total electricity production from combustible fuels,819820,819820,0,2,0,0.0000,OK
+2021-01-01,Total electricity production from non-renewable combustible fuels,787996,787996,0,2,0,0.0000,OK
+2021-01-01,Wind power turbine,72587,72587,0,2,0,0.0000,OK
+2021-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-02-01,Hydraulic turbine,75196,75196,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-02-01,Solar,0,0,0,2,0,,OK
+2021-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-02-01,Total all types of electricity generation,925651,925651,0,2,0,0.0000,OK
+2021-02-01,Total electricity production from biomass,27646,27646,0,2,0,0.0000,OK
+2021-02-01,Total electricity production from combustible fuels,770566,770566,0,2,0,0.0000,OK
+2021-02-01,Total electricity production from non-renewable combustible fuels,742920,742920,0,2,0,0.0000,OK
+2021-02-01,Wind power turbine,79889,79889,0,2,0,0.0000,OK
+2021-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-03-01,Hydraulic turbine,82365,82365,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-03-01,Solar,0,0,0,2,0,,OK
+2021-03-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-03-01,Total all types of electricity generation,933791,933791,0,2,0,0.0000,OK
+2021-03-01,Total electricity production from biomass,27031,27031,0,2,0,0.0000,OK
+2021-03-01,Total electricity production from combustible fuels,717234,717234,0,2,0,0.0000,OK
+2021-03-01,Total electricity production from non-renewable combustible fuels,690203,690203,0,2,0,0.0000,OK
+2021-03-01,Wind power turbine,134192,134192,0,2,0,0.0000,OK
+2021-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-04-01,Hydraulic turbine,120135,120135,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-04-01,Solar,0,0,0,2,0,,OK
+2021-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-04-01,Total all types of electricity generation,681770,681770,0,2,0,0.0000,OK
+2021-04-01,Total electricity production from biomass,26003,26003,0,2,0,0.0000,OK
+2021-04-01,Total electricity production from combustible fuels,446157,446157,0,2,0,0.0000,OK
+2021-04-01,Total electricity production from non-renewable combustible fuels,420154,420154,0,2,0,0.0000,OK
+2021-04-01,Wind power turbine,115478,115478,0,2,0,0.0000,OK
+2021-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-05-01,Hydraulic turbine,90151,90151,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-05-01,Solar,0,0,0,2,0,,OK
+2021-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-05-01,Total all types of electricity generation,655406,655406,0,2,0,0.0000,OK
+2021-05-01,Total electricity production from biomass,28448,28448,0,2,0,0.0000,OK
+2021-05-01,Total electricity production from combustible fuels,468761,468761,0,2,0,0.0000,OK
+2021-05-01,Total electricity production from non-renewable combustible fuels,440313,440313,0,2,0,0.0000,OK
+2021-05-01,Wind power turbine,96494,96494,0,2,0,0.0000,OK
+2021-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-06-01,Hydraulic turbine,63984,63984,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-06-01,Solar,0,0,0,2,0,,OK
+2021-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-06-01,Total all types of electricity generation,595561,595561,0,2,0,0.0000,OK
+2021-06-01,Total electricity production from biomass,29504,29504,0,2,0,0.0000,OK
+2021-06-01,Total electricity production from combustible fuels,435282,435282,0,2,0,0.0000,OK
+2021-06-01,Total electricity production from non-renewable combustible fuels,405778,405778,0,2,0,0.0000,OK
+2021-06-01,Wind power turbine,96295,96295,0,2,0,0.0000,OK
+2021-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-07-01,Hydraulic turbine,30310,30310,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-07-01,Solar,0,0,0,2,0,,OK
+2021-07-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-07-01,Total all types of electricity generation,668025,668025,0,2,0,0.0000,OK
+2021-07-01,Total electricity production from biomass,34524,34524,0,2,0,0.0000,OK
+2021-07-01,Total electricity production from combustible fuels,569685,569685,0,2,0,0.0000,OK
+2021-07-01,Total electricity production from non-renewable combustible fuels,535161,535161,0,2,0,0.0000,OK
+2021-07-01,Wind power turbine,68030,68030,0,2,0,0.0000,OK
+2021-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-08-01,Hydraulic turbine,17576,17576,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-08-01,Solar,0,0,0,2,0,,OK
+2021-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-08-01,Total all types of electricity generation,699742,699742,0,2,0,0.0000,OK
+2021-08-01,Total electricity production from biomass,30847,30847,0,2,0,0.0000,OK
+2021-08-01,Total electricity production from combustible fuels,624835,624835,0,2,0,0.0000,OK
+2021-08-01,Total electricity production from non-renewable combustible fuels,593988,593988,0,2,0,0.0000,OK
+2021-08-01,Wind power turbine,57331,57331,0,2,0,0.0000,OK
+2021-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-09-01,Hydraulic turbine,29449,29449,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-09-01,Solar,0,0,0,2,0,,OK
+2021-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-09-01,Total all types of electricity generation,595063,595063,0,2,0,0.0000,OK
+2021-09-01,Total electricity production from biomass,34643,34643,0,2,0,0.0000,OK
+2021-09-01,Total electricity production from combustible fuels,480236,480236,0,2,0,0.0000,OK
+2021-09-01,Total electricity production from non-renewable combustible fuels,445593,445593,0,2,0,0.0000,OK
+2021-09-01,Wind power turbine,85378,85378,0,2,0,0.0000,OK
+2021-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-10-01,Hydraulic turbine,27620,27620,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-10-01,Solar,0,0,0,2,0,,OK
+2021-10-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-10-01,Total all types of electricity generation,713242,713242,0,2,0,0.0000,OK
+2021-10-01,Total electricity production from biomass,22369,22369,0,2,0,0.0000,OK
+2021-10-01,Total electricity production from combustible fuels,604993,604993,0,2,0,0.0000,OK
+2021-10-01,Total electricity production from non-renewable combustible fuels,582624,582624,0,2,0,0.0000,OK
+2021-10-01,Wind power turbine,80629,80629,0,2,0,0.0000,OK
+2021-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-11-01,Hydraulic turbine,52023,52023,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-11-01,Solar,0,0,0,2,0,,OK
+2021-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-11-01,Total all types of electricity generation,755955,755955,0,2,0,0.0000,OK
+2021-11-01,Total electricity production from biomass,9108,9108,0,2,0,0.0000,OK
+2021-11-01,Total electricity production from combustible fuels,598141,598141,0,2,0,0.0000,OK
+2021-11-01,Total electricity production from non-renewable combustible fuels,589033,589033,0,2,0,0.0000,OK
+2021-11-01,Wind power turbine,105791,105791,0,2,0,0.0000,OK
+2021-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2021-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2021-12-01,Hydraulic turbine,102547,102547,1,2,0,0.0000,SUPPRESSED_SOURCE
+2021-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2021-12-01,Solar,0,0,0,2,0,,OK
+2021-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2021-12-01,Total all types of electricity generation,909868,909868,0,2,0,0.0000,OK
+2021-12-01,Total electricity production from biomass,31672,31672,0,2,0,0.0000,OK
+2021-12-01,Total electricity production from combustible fuels,693691,693691,0,2,0,0.0000,OK
+2021-12-01,Total electricity production from non-renewable combustible fuels,662019,662019,0,2,0,0.0000,OK
+2021-12-01,Wind power turbine,113630,113630,0,2,0,0.0000,OK
+2022-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-01-01,Hydraulic turbine,138952,138952,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-01-01,Solar,0,0,0,2,0,,OK
+2022-01-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-01-01,Total all types of electricity generation,1061577,1061577,0,2,0,0.0000,OK
+2022-01-01,Total electricity production from biomass,32025,32025,0,2,0,0.0000,OK
+2022-01-01,Total electricity production from combustible fuels,811889,811889,0,2,0,0.0000,OK
+2022-01-01,Total electricity production from non-renewable combustible fuels,779864,779864,0,2,0,0.0000,OK
+2022-01-01,Wind power turbine,110736,110736,0,2,0,0.0000,OK
+2022-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-02-01,Hydraulic turbine,107123,107123,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-02-01,Solar,0,0,0,2,0,,OK
+2022-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-02-01,Total all types of electricity generation,913361,913361,0,2,0,0.0000,OK
+2022-02-01,Total electricity production from biomass,23479,23479,0,2,0,0.0000,OK
+2022-02-01,Total electricity production from combustible fuels,694070,694070,0,2,0,0.0000,OK
+2022-02-01,Total electricity production from non-renewable combustible fuels,670591,670591,0,2,0,0.0000,OK
+2022-02-01,Wind power turbine,112168,112168,0,2,0,0.0000,OK
+2022-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-03-01,Hydraulic turbine,127359,127359,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-03-01,Solar,0,0,0,2,0,,OK
+2022-03-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-03-01,Total all types of electricity generation,919351,919351,0,2,0,0.0000,OK
+2022-03-01,Total electricity production from biomass,20010,20010,0,2,0,0.0000,OK
+2022-03-01,Total electricity production from combustible fuels,655052,655052,0,2,0,0.0000,OK
+2022-03-01,Total electricity production from non-renewable combustible fuels,635042,635042,0,2,0,0.0000,OK
+2022-03-01,Wind power turbine,136940,136940,0,2,0,0.0000,OK
+2022-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-04-01,Hydraulic turbine,122556,122556,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-04-01,Solar,0,0,0,2,0,,OK
+2022-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-04-01,Total all types of electricity generation,716936,716936,0,2,0,0.0000,OK
+2022-04-01,Total electricity production from biomass,19221,19221,0,2,0,0.0000,OK
+2022-04-01,Total electricity production from combustible fuels,447767,447767,0,2,0,0.0000,OK
+2022-04-01,Total electricity production from non-renewable combustible fuels,428546,428546,0,2,0,0.0000,OK
+2022-04-01,Wind power turbine,146613,146613,0,2,0,0.0000,OK
+2022-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-05-01,Hydraulic turbine,132798,132798,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-05-01,Solar,0,0,0,2,0,,OK
+2022-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-05-01,Total all types of electricity generation,658776,658776,0,2,0,0.0000,OK
+2022-05-01,Total electricity production from biomass,13380,13380,0,2,0,0.0000,OK
+2022-05-01,Total electricity production from combustible fuels,413703,413703,0,2,0,0.0000,OK
+2022-05-01,Total electricity production from non-renewable combustible fuels,400323,400323,0,2,0,0.0000,OK
+2022-05-01,Wind power turbine,112275,112275,0,2,0,0.0000,OK
+2022-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-06-01,Hydraulic turbine,29128,29128,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-06-01,Solar,0,0,0,2,0,,OK
+2022-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-06-01,Total all types of electricity generation,611797,611797,0,2,0,0.0000,OK
+2022-06-01,Total electricity production from biomass,17742,17742,0,2,0,0.0000,OK
+2022-06-01,Total electricity production from combustible fuels,500199,500199,0,2,0,0.0000,OK
+2022-06-01,Total electricity production from non-renewable combustible fuels,482457,482457,0,2,0,0.0000,OK
+2022-06-01,Wind power turbine,82470,82470,0,2,0,0.0000,OK
+2022-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-07-01,Hydraulic turbine,26805,26805,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-07-01,Solar,0,0,0,2,0,,OK
+2022-07-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-07-01,Total all types of electricity generation,667861,667861,0,2,0,0.0000,OK
+2022-07-01,Total electricity production from biomass,18964,18964,0,2,0,0.0000,OK
+2022-07-01,Total electricity production from combustible fuels,535813,535813,0,2,0,0.0000,OK
+2022-07-01,Total electricity production from non-renewable combustible fuels,516849,516849,0,2,0,0.0000,OK
+2022-07-01,Wind power turbine,105243,105243,0,2,0,0.0000,OK
+2022-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-08-01,Hydraulic turbine,9799,9799,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-08-01,Solar,0,0,0,2,0,,OK
+2022-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-08-01,Total all types of electricity generation,694314,694314,0,2,0,0.0000,OK
+2022-08-01,Total electricity production from biomass,15666,15666,0,2,0,0.0000,OK
+2022-08-01,Total electricity production from combustible fuels,609537,609537,0,2,0,0.0000,OK
+2022-08-01,Total electricity production from non-renewable combustible fuels,593871,593871,0,2,0,0.0000,OK
+2022-08-01,Wind power turbine,74978,74978,0,2,0,0.0000,OK
+2022-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-09-01,Hydraulic turbine,14392,14392,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-09-01,Solar,0,0,0,2,0,,OK
+2022-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-09-01,Total all types of electricity generation,578522,578522,0,2,0,0.0000,OK
+2022-09-01,Total electricity production from biomass,3141,3141,0,2,0,0.0000,OK
+2022-09-01,Total electricity production from combustible fuels,463280,463280,0,2,0,0.0000,OK
+2022-09-01,Total electricity production from non-renewable combustible fuels,460139,460139,0,2,0,0.0000,OK
+2022-09-01,Wind power turbine,100850,100850,0,2,0,0.0000,OK
+2022-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-10-01,Hydraulic turbine,35493,35493,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-10-01,Solar,0,0,0,2,0,,OK
+2022-10-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-10-01,Total all types of electricity generation,590762,590762,0,2,0,0.0000,OK
+2022-10-01,Total electricity production from biomass,430,430,0,2,0,0.0000,OK
+2022-10-01,Total electricity production from combustible fuels,442304,442304,0,2,0,0.0000,OK
+2022-10-01,Total electricity production from non-renewable combustible fuels,441874,441874,0,2,0,0.0000,OK
+2022-10-01,Wind power turbine,112965,112965,0,2,0,0.0000,OK
+2022-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-11-01,Hydraulic turbine,45022,45022,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-11-01,Solar,0,0,0,2,0,,OK
+2022-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-11-01,Total all types of electricity generation,663184,663184,0,2,0,0.0000,OK
+2022-11-01,Total electricity production from biomass,395,395,0,2,0,0.0000,OK
+2022-11-01,Total electricity production from combustible fuels,473495,473495,0,2,0,0.0000,OK
+2022-11-01,Total electricity production from non-renewable combustible fuels,473100,473100,0,2,0,0.0000,OK
+2022-11-01,Wind power turbine,144667,144667,0,2,0,0.0000,OK
+2022-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2022-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2022-12-01,Hydraulic turbine,93794,93794,1,2,0,0.0000,SUPPRESSED_SOURCE
+2022-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2022-12-01,Solar,0,0,0,2,0,,OK
+2022-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2022-12-01,Total all types of electricity generation,913964,913964,0,2,0,0.0000,OK
+2022-12-01,Total electricity production from biomass,11036,11036,0,2,0,0.0000,OK
+2022-12-01,Total electricity production from combustible fuels,679484,679484,0,2,0,0.0000,OK
+2022-12-01,Total electricity production from non-renewable combustible fuels,668448,668448,0,2,0,0.0000,OK
+2022-12-01,Wind power turbine,140686,140686,0,2,0,0.0000,OK
+2023-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-01-01,Hydraulic turbine,156037,156037,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-01-01,Solar,0,0,0,2,0,,OK
+2023-01-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-01-01,Total all types of electricity generation,950984,950984,0,2,0,0.0000,OK
+2023-01-01,Total electricity production from biomass,16452,16452,0,2,0,0.0000,OK
+2023-01-01,Total electricity production from combustible fuels,700197,700197,0,2,0,0.0000,OK
+2023-01-01,Total electricity production from non-renewable combustible fuels,683745,683745,0,2,0,0.0000,OK
+2023-01-01,Wind power turbine,94750,94750,0,2,0,0.0000,OK
+2023-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-02-01,Hydraulic turbine,116241,116241,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-02-01,Solar,0,0,0,2,0,,OK
+2023-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-02-01,Total all types of electricity generation,921642,921642,0,2,0,0.0000,OK
+2023-02-01,Total electricity production from biomass,28653,28653,0,2,0,0.0000,OK
+2023-02-01,Total electricity production from combustible fuels,689737,689737,0,2,0,0.0000,OK
+2023-02-01,Total electricity production from non-renewable combustible fuels,661084,661084,0,2,0,0.0000,OK
+2023-02-01,Wind power turbine,115664,115664,0,2,0,0.0000,OK
+2023-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-03-01,Hydraulic turbine,92994,92994,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-03-01,Solar,0,0,0,2,0,,OK
+2023-03-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-03-01,Total all types of electricity generation,913944,913944,0,2,0,0.0000,OK
+2023-03-01,Total electricity production from biomass,31126,31126,0,2,0,0.0000,OK
+2023-03-01,Total electricity production from combustible fuels,689492,689492,0,2,0,0.0000,OK
+2023-03-01,Total electricity production from non-renewable combustible fuels,658366,658366,0,2,0,0.0000,OK
+2023-03-01,Wind power turbine,131458,131458,0,2,0,0.0000,OK
+2023-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-04-01,Hydraulic turbine,53010,53010,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-04-01,Solar,0,0,0,2,0,,OK
+2023-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-04-01,Total all types of electricity generation,619657,619657,0,2,0,0.0000,OK
+2023-04-01,Total electricity production from biomass,32562,32562,0,2,0,0.0000,OK
+2023-04-01,Total electricity production from combustible fuels,451021,451021,0,2,0,0.0000,OK
+2023-04-01,Total electricity production from non-renewable combustible fuels,418459,418459,0,2,0,0.0000,OK
+2023-04-01,Wind power turbine,115626,115626,0,2,0,0.0000,OK
+2023-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-05-01,Hydraulic turbine,52070,52070,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-05-01,Solar,0,0,0,2,0,,OK
+2023-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-05-01,Total all types of electricity generation,560210,560210,0,2,0,0.0000,OK
+2023-05-01,Total electricity production from biomass,34764,34764,0,2,0,0.0000,OK
+2023-05-01,Total electricity production from combustible fuels,362005,362005,0,2,0,0.0000,OK
+2023-05-01,Total electricity production from non-renewable combustible fuels,327241,327241,0,2,0,0.0000,OK
+2023-05-01,Wind power turbine,146135,146135,0,2,0,0.0000,OK
+2023-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-06-01,Hydraulic turbine,59951,59951,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-06-01,Solar,1216,1216,0,2,0,0.0000,OK
+2023-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-06-01,Total all types of electricity generation,529877,529877,0,2,0,0.0000,OK
+2023-06-01,Total electricity production from biomass,18147,18147,0,2,0,0.0000,OK
+2023-06-01,Total electricity production from combustible fuels,384553,384553,0,2,0,0.0000,OK
+2023-06-01,Total electricity production from non-renewable combustible fuels,366406,366406,0,2,0,0.0000,OK
+2023-06-01,Wind power turbine,84157,84157,0,2,0,0.0000,OK
+2023-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-07-01,Hydraulic turbine,58815,58815,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-07-01,Solar,289,289,0,2,0,0.0000,OK
+2023-07-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-07-01,Total all types of electricity generation,601153,601153,0,2,0,0.0000,OK
+2023-07-01,Total electricity production from biomass,24259,24259,0,2,0,0.0000,OK
+2023-07-01,Total electricity production from combustible fuels,478761,478761,0,2,0,0.0000,OK
+2023-07-01,Total electricity production from non-renewable combustible fuels,454502,454502,0,2,0,0.0000,OK
+2023-07-01,Wind power turbine,63288,63288,0,2,0,0.0000,OK
+2023-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-08-01,Hydraulic turbine,49230,49230,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-08-01,Solar,252,252,0,2,0,0.0000,OK
+2023-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-08-01,Total all types of electricity generation,525722,525722,0,2,0,0.0000,OK
+2023-08-01,Total electricity production from biomass,36367,36367,0,2,0,0.0000,OK
+2023-08-01,Total electricity production from combustible fuels,394951,394951,0,2,0,0.0000,OK
+2023-08-01,Total electricity production from non-renewable combustible fuels,358584,358584,0,2,0,0.0000,OK
+2023-08-01,Wind power turbine,81289,81289,0,2,0,0.0000,OK
+2023-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-09-01,Hydraulic turbine,56888,56888,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-09-01,Solar,221,221,0,2,0,0.0000,OK
+2023-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-09-01,Total all types of electricity generation,582471,582471,0,2,0,0.0000,OK
+2023-09-01,Total electricity production from biomass,29494,29494,0,2,0,0.0000,OK
+2023-09-01,Total electricity production from combustible fuels,444041,444041,0,2,0,0.0000,OK
+2023-09-01,Total electricity production from non-renewable combustible fuels,414547,414547,0,2,0,0.0000,OK
+2023-09-01,Wind power turbine,81321,81321,0,2,0,0.0000,OK
+2023-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-10-01,Hydraulic turbine,82913,82913,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-10-01,Solar,191,191,0,2,0,0.0000,OK
+2023-10-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-10-01,Total all types of electricity generation,527961,527961,0,2,0,0.0000,OK
+2023-10-01,Total electricity production from biomass,16301,16301,0,2,0,0.0000,OK
+2023-10-01,Total electricity production from combustible fuels,343772,343772,0,2,0,0.0000,OK
+2023-10-01,Total electricity production from non-renewable combustible fuels,327471,327471,0,2,0,0.0000,OK
+2023-10-01,Wind power turbine,101085,101085,0,2,0,0.0000,OK
+2023-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-11-01,Hydraulic turbine,66511,66511,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-11-01,Solar,130,130,0,2,0,0.0000,OK
+2023-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-11-01,Total all types of electricity generation,716117,716117,0,2,0,0.0000,OK
+2023-11-01,Total electricity production from biomass,11908,11908,0,2,0,0.0000,OK
+2023-11-01,Total electricity production from combustible fuels,517527,517527,0,2,0,0.0000,OK
+2023-11-01,Total electricity production from non-renewable combustible fuels,505619,505619,0,2,0,0.0000,OK
+2023-11-01,Wind power turbine,131949,131949,0,2,0,0.0000,OK
+2023-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2023-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2023-12-01,Hydraulic turbine,114867,114867,1,2,0,0.0000,SUPPRESSED_SOURCE
+2023-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2023-12-01,Solar,96,96,0,2,0,0.0000,OK
+2023-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2023-12-01,Total all types of electricity generation,827452,827452,0,2,0,0.0000,OK
+2023-12-01,Total electricity production from biomass,21546,21546,0,2,0,0.0000,OK
+2023-12-01,Total electricity production from combustible fuels,561153,561153,0,2,0,0.0000,OK
+2023-12-01,Total electricity production from non-renewable combustible fuels,539607,539607,0,2,0,0.0000,OK
+2023-12-01,Wind power turbine,151336,151336,0,2,0,0.0000,OK
+2024-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-01-01,Hydraulic turbine,112801,112801,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-01-01,Solar,119,119,0,2,0,0.0000,OK
+2024-01-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-01-01,Total all types of electricity generation,1046465,1046465,0,2,0,0.0000,OK
+2024-01-01,Total electricity production from biomass,20580,20580,0,2,0,0.0000,OK
+2024-01-01,Total electricity production from combustible fuels,795236,795236,0,2,0,0.0000,OK
+2024-01-01,Total electricity production from non-renewable combustible fuels,774656,774656,0,2,0,0.0000,OK
+2024-01-01,Wind power turbine,138309,138309,0,2,0,0.0000,OK
+2024-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-02-01,Hydraulic turbine,83348,83348,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-02-01,Solar,153,153,0,2,0,0.0000,OK
+2024-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-02-01,Total all types of electricity generation,891990,891990,0,2,0,0.0000,OK
+2024-02-01,Total electricity production from biomass,31871,31871,0,2,0,0.0000,OK
+2024-02-01,Total electricity production from combustible fuels,663872,663872,0,2,0,0.0000,OK
+2024-02-01,Total electricity production from non-renewable combustible fuels,632001,632001,0,2,0,0.0000,OK
+2024-02-01,Wind power turbine,144617,144617,0,2,0,0.0000,OK
+2024-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-03-01,Hydraulic turbine,107580,107580,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-03-01,Solar,187,187,0,2,0,0.0000,OK
+2024-03-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-03-01,Total all types of electricity generation,799210,799210,0,2,0,0.0000,OK
+2024-03-01,Total electricity production from biomass,30282,30282,0,2,0,0.0000,OK
+2024-03-01,Total electricity production from combustible fuels,520658,520658,0,2,0,0.0000,OK
+2024-03-01,Total electricity production from non-renewable combustible fuels,490376,490376,0,2,0,0.0000,OK
+2024-03-01,Wind power turbine,170785,170785,0,2,0,0.0000,OK
+2024-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-04-01,Hydraulic turbine,129497,129497,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-04-01,Solar,289,289,0,2,0,0.0000,OK
+2024-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-04-01,Total all types of electricity generation,765606,765606,0,2,0,0.0000,OK
+2024-04-01,Total electricity production from biomass,27297,27297,0,2,0,0.0000,OK
+2024-04-01,Total electricity production from combustible fuels,490856,490856,0,2,0,0.0000,OK
+2024-04-01,Total electricity production from non-renewable combustible fuels,463559,463559,0,2,0,0.0000,OK
+2024-04-01,Wind power turbine,144964,144964,0,2,0,0.0000,OK
+2024-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-05-01,Hydraulic turbine,89563,89563,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-05-01,Solar,300,300,0,2,0,0.0000,OK
+2024-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-05-01,Total all types of electricity generation,628077,628077,0,2,0,0.0000,OK
+2024-05-01,Total electricity production from biomass,27557,27557,0,2,0,0.0000,OK
+2024-05-01,Total electricity production from combustible fuels,441024,441024,0,2,0,0.0000,OK
+2024-05-01,Total electricity production from non-renewable combustible fuels,413467,413467,0,2,0,0.0000,OK
+2024-05-01,Wind power turbine,97190,97190,0,2,0,0.0000,OK
+2024-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-06-01,Hydraulic turbine,44850,44850,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-06-01,Solar,293,293,0,2,0,0.0000,OK
+2024-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-06-01,Total all types of electricity generation,460241,460241,0,2,0,0.0000,OK
+2024-06-01,Total electricity production from biomass,17545,17545,0,2,0,0.0000,OK
+2024-06-01,Total electricity production from combustible fuels,306344,306344,0,2,0,0.0000,OK
+2024-06-01,Total electricity production from non-renewable combustible fuels,288799,288799,0,2,0,0.0000,OK
+2024-06-01,Wind power turbine,108754,108754,0,2,0,0.0000,OK
+2024-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-07-01,Hydraulic turbine,33520,33520,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-07-01,Solar,320,320,0,2,0,0.0000,OK
+2024-07-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-07-01,Total all types of electricity generation,599739,599739,0,2,0,0.0000,OK
+2024-07-01,Total electricity production from biomass,19704,19704,0,2,0,0.0000,OK
+2024-07-01,Total electricity production from combustible fuels,475011,475011,0,2,0,0.0000,OK
+2024-07-01,Total electricity production from non-renewable combustible fuels,455307,455307,0,2,0,0.0000,OK
+2024-07-01,Wind power turbine,90888,90888,0,2,0,0.0000,OK
+2024-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-08-01,Hydraulic turbine,30360,30360,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-08-01,Solar,318,318,0,2,0,0.0000,OK
+2024-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-08-01,Total all types of electricity generation,744630,744630,0,2,0,0.0000,OK
+2024-08-01,Total electricity production from biomass,39285,39285,0,2,0,0.0000,OK
+2024-08-01,Total electricity production from combustible fuels,626043,626043,0,2,0,0.0000,OK
+2024-08-01,Total electricity production from non-renewable combustible fuels,586758,586758,0,2,0,0.0000,OK
+2024-08-01,Wind power turbine,87909,87909,0,2,0,0.0000,OK
+2024-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-09-01,Hydraulic turbine,18376,18376,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-09-01,Solar,254,254,0,2,0,0.0000,OK
+2024-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-09-01,Total all types of electricity generation,624145,624145,0,2,0,0.0000,OK
+2024-09-01,Total electricity production from biomass,41077,41077,0,2,0,0.0000,OK
+2024-09-01,Total electricity production from combustible fuels,500493,500493,0,2,0,0.0000,OK
+2024-09-01,Total electricity production from non-renewable combustible fuels,459416,459416,0,2,0,0.0000,OK
+2024-09-01,Wind power turbine,105022,105022,0,2,0,0.0000,OK
+2024-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-10-01,Hydraulic turbine,16211,16211,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-10-01,Solar,220,220,0,2,0,0.0000,OK
+2024-10-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-10-01,Total all types of electricity generation,664510,664510,0,2,0,0.0000,OK
+2024-10-01,Total electricity production from biomass,26126,26126,0,2,0,0.0000,OK
+2024-10-01,Total electricity production from combustible fuels,498720,498720,0,2,0,0.0000,OK
+2024-10-01,Total electricity production from non-renewable combustible fuels,472594,472594,0,2,0,0.0000,OK
+2024-10-01,Wind power turbine,149359,149359,0,2,0,0.0000,OK
+2024-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-11-01,Hydraulic turbine,21766,21766,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-11-01,Solar,84,84,0,2,0,0.0000,OK
+2024-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-11-01,Total all types of electricity generation,717765,717765,0,2,0,0.0000,OK
+2024-11-01,Total electricity production from biomass,39346,39346,0,2,0,0.0000,OK
+2024-11-01,Total electricity production from combustible fuels,503894,503894,0,2,0,0.0000,OK
+2024-11-01,Total electricity production from non-renewable combustible fuels,464548,464548,0,2,0,0.0000,OK
+2024-11-01,Wind power turbine,192021,192021,0,2,0,0.0000,OK
+2024-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2024-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2024-12-01,Hydraulic turbine,40173,40173,1,2,0,0.0000,SUPPRESSED_SOURCE
+2024-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2024-12-01,Solar,207,207,0,2,0,0.0000,OK
+2024-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2024-12-01,Total all types of electricity generation,888563,888563,0,2,0,0.0000,OK
+2024-12-01,Total electricity production from biomass,32449,32449,0,2,0,0.0000,OK
+2024-12-01,Total electricity production from combustible fuels,680566,680566,0,2,0,0.0000,OK
+2024-12-01,Total electricity production from non-renewable combustible fuels,648117,648117,0,2,0,0.0000,OK
+2024-12-01,Wind power turbine,167617,167617,0,2,0,0.0000,OK
+2025-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-01-01,Hydraulic turbine,97622,97622,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-01-01,Solar,76,76,0,2,0,0.0000,OK
+2025-01-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-01-01,Total all types of electricity generation,1110420,1110420,0,2,0,0.0000,OK
+2025-01-01,Total electricity production from biomass,33520,33520,0,2,0,0.0000,OK
+2025-01-01,Total electricity production from combustible fuels,843527,843527,0,2,0,0.0000,OK
+2025-01-01,Total electricity production from non-renewable combustible fuels,810007,810007,0,2,0,0.0000,OK
+2025-01-01,Wind power turbine,169195,169195,0,2,0,0.0000,OK
+2025-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-02-01,Hydraulic turbine,81582,81582,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-02-01,Solar,177,177,0,2,0,0.0000,OK
+2025-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-02-01,Total all types of electricity generation,997728,997728,0,2,0,0.0000,OK
+2025-02-01,Total electricity production from biomass,25945,25945,0,2,0,0.0000,OK
+2025-02-01,Total electricity production from combustible fuels,766234,766234,0,2,0,0.0000,OK
+2025-02-01,Total electricity production from non-renewable combustible fuels,740289,740289,0,2,0,0.0000,OK
+2025-02-01,Wind power turbine,149735,149735,0,2,0,0.0000,OK
+2025-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-03-01,Hydraulic turbine,74392,74392,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-03-01,Solar,256,256,0,2,0,0.0000,OK
+2025-03-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-03-01,Total all types of electricity generation,828549,828549,0,2,0,0.0000,OK
+2025-03-01,Total electricity production from biomass,39563,39563,0,2,0,0.0000,OK
+2025-03-01,Total electricity production from combustible fuels,580383,580383,0,2,0,0.0000,OK
+2025-03-01,Total electricity production from non-renewable combustible fuels,540820,540820,0,2,0,0.0000,OK
+2025-03-01,Wind power turbine,173518,173518,0,2,0,0.0000,OK
+2025-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-04-01,Hydraulic turbine,113668,113668,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-04-01,Solar,310,310,0,2,0,0.0000,OK
+2025-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-04-01,Total all types of electricity generation,758232,758232,0,2,0,0.0000,OK
+2025-04-01,Total electricity production from biomass,39412,39412,0,2,0,0.0000,OK
+2025-04-01,Total electricity production from combustible fuels,487300,487300,0,2,0,0.0000,OK
+2025-04-01,Total electricity production from non-renewable combustible fuels,447888,447888,0,2,0,0.0000,OK
+2025-04-01,Wind power turbine,156954,156954,0,2,0,0.0000,OK
+2025-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-05-01,Hydraulic turbine,96093,96093,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-05-01,Solar,356,356,0,2,0,0.0000,OK
+2025-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-05-01,Total all types of electricity generation,510236,510236,0,2,0,0.0000,OK
+2025-05-01,Total electricity production from biomass,31054,31054,0,2,0,0.0000,OK
+2025-05-01,Total electricity production from combustible fuels,282417,282417,0,2,0,0.0000,OK
+2025-05-01,Total electricity production from non-renewable combustible fuels,251363,251363,0,2,0,0.0000,OK
+2025-05-01,Wind power turbine,131370,131370,0,2,0,0.0000,OK
+2025-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-06-01,Hydraulic turbine,53861,53861,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-06-01,Solar,408,408,0,2,0,0.0000,OK
+2025-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-06-01,Total all types of electricity generation,484117,484117,0,2,0,0.0000,OK
+2025-06-01,Total electricity production from biomass,13482,13482,0,2,0,0.0000,OK
+2025-06-01,Total electricity production from combustible fuels,306047,306047,0,2,0,0.0000,OK
+2025-06-01,Total electricity production from non-renewable combustible fuels,292565,292565,0,2,0,0.0000,OK
+2025-06-01,Wind power turbine,123801,123801,0,2,0,0.0000,OK
+2025-07-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-07-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-07-01,Hydraulic turbine,20943,20943,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-07-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-07-01,Solar,384,384,0,2,0,0.0000,OK
+2025-07-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-07-01,Total all types of electricity generation,588586,588586,0,2,0,0.0000,OK
+2025-07-01,Total electricity production from biomass,17495,17495,0,2,0,0.0000,OK
+2025-07-01,Total electricity production from combustible fuels,465436,465436,0,2,0,0.0000,OK
+2025-07-01,Total electricity production from non-renewable combustible fuels,447941,447941,0,2,0,0.0000,OK
+2025-07-01,Wind power turbine,101823,101823,0,2,0,0.0000,OK
+2025-08-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-08-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-08-01,Hydraulic turbine,7771,7771,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-08-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-08-01,Solar,366,366,0,2,0,0.0000,OK
+2025-08-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-08-01,Total all types of electricity generation,621026,621026,0,2,0,0.0000,OK
+2025-08-01,Total electricity production from biomass,38302,38302,0,2,0,0.0000,OK
+2025-08-01,Total electricity production from combustible fuels,510056,510056,0,2,0,0.0000,OK
+2025-08-01,Total electricity production from non-renewable combustible fuels,471754,471754,0,2,0,0.0000,OK
+2025-08-01,Wind power turbine,102833,102833,0,2,0,0.0000,OK
+2025-09-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-09-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-09-01,Hydraulic turbine,4957,4957,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-09-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-09-01,Solar,926,926,0,2,0,0.0000,OK
+2025-09-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-09-01,Total all types of electricity generation,608853,608853,0,2,0,0.0000,OK
+2025-09-01,Total electricity production from biomass,21522,21522,0,2,0,0.0000,OK
+2025-09-01,Total electricity production from combustible fuels,518527,518527,0,2,0,0.0000,OK
+2025-09-01,Total electricity production from non-renewable combustible fuels,497005,497005,0,2,0,0.0000,OK
+2025-09-01,Wind power turbine,84443,84443,0,2,0,0.0000,OK
+2025-10-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-10-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-10-01,Hydraulic turbine,4324,4324,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-10-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-10-01,Solar,915,915,0,2,0,0.0000,OK
+2025-10-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-10-01,Total all types of electricity generation,673008,673008,0,2,0,0.0000,OK
+2025-10-01,Total electricity production from biomass,23800,23800,0,2,0,0.0000,OK
+2025-10-01,Total electricity production from combustible fuels,518870,518870,0,2,0,0.0000,OK
+2025-10-01,Total electricity production from non-renewable combustible fuels,495070,495070,0,2,0,0.0000,OK
+2025-10-01,Wind power turbine,148899,148899,0,2,0,0.0000,OK
+2025-11-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-11-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-11-01,Hydraulic turbine,12323,12323,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-11-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-11-01,Solar,1405,1405,0,2,0,0.0000,OK
+2025-11-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-11-01,Total all types of electricity generation,770282,770282,0,2,0,0.0000,OK
+2025-11-01,Total electricity production from biomass,31162,31162,0,2,0,0.0000,OK
+2025-11-01,Total electricity production from combustible fuels,591250,591250,0,2,0,0.0000,OK
+2025-11-01,Total electricity production from non-renewable combustible fuels,560088,560088,0,2,0,0.0000,OK
+2025-11-01,Wind power turbine,165304,165304,0,2,0,0.0000,OK
+2025-12-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2025-12-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2025-12-01,Hydraulic turbine,49734,49734,1,2,0,0.0000,SUPPRESSED_SOURCE
+2025-12-01,Other types of electricity generation,0,0,0,2,0,,OK
+2025-12-01,Solar,284,284,0,2,0,0.0000,OK
+2025-12-01,Tidal power turbine,0,0,0,2,0,,OK
+2025-12-01,Total all types of electricity generation,1071200,1071200,0,2,0,0.0000,OK
+2025-12-01,Total electricity production from biomass,39515,39515,0,2,0,0.0000,OK
+2025-12-01,Total electricity production from combustible fuels,823997,823997,0,2,0,0.0000,OK
+2025-12-01,Total electricity production from non-renewable combustible fuels,784482,784482,0,2,0,0.0000,OK
+2025-12-01,Wind power turbine,197185,197185,0,2,0,0.0000,OK
+2026-01-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2026-01-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2026-01-01,Hydraulic turbine,59428,59428,1,2,0,0.0000,SUPPRESSED_SOURCE
+2026-01-01,Other types of electricity generation,0,0,0,2,0,,OK
+2026-01-01,Solar,267,267,0,2,0,0.0000,OK
+2026-01-01,Tidal power turbine,0,0,0,2,0,,OK
+2026-01-01,Total all types of electricity generation,1119707,1119707,0,2,0,0.0000,OK
+2026-01-01,Total electricity production from biomass,33293,33293,0,2,0,0.0000,OK
+2026-01-01,Total electricity production from combustible fuels,886924,886924,0,2,0,0.0000,OK
+2026-01-01,Total electricity production from non-renewable combustible fuels,853631,853631,0,2,0,0.0000,OK
+2026-01-01,Wind power turbine,173088,173088,0,2,0,0.0000,OK
+2026-02-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2026-02-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2026-02-01,Hydraulic turbine,67004,67004,1,2,0,0.0000,SUPPRESSED_SOURCE
+2026-02-01,Other types of electricity generation,0,0,0,2,0,,OK
+2026-02-01,Solar,589,589,0,2,0,0.0000,OK
+2026-02-01,Tidal power turbine,0,0,0,2,0,,OK
+2026-02-01,Total all types of electricity generation,959952,959952,0,2,0,0.0000,OK
+2026-02-01,Total electricity production from biomass,31425,31425,0,2,0,0.0000,OK
+2026-02-01,Total electricity production from combustible fuels,778078,778078,0,2,0,0.0000,OK
+2026-02-01,Total electricity production from non-renewable combustible fuels,746653,746653,0,2,0,0.0000,OK
+2026-02-01,Wind power turbine,114281,114281,0,2,0,0.0000,OK
+2026-03-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2026-03-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2026-03-01,Hydraulic turbine,75228,75228,1,2,0,0.0000,SUPPRESSED_SOURCE
+2026-03-01,Other types of electricity generation,0,0,0,2,0,,OK
+2026-03-01,Solar,653,653,0,2,0,0.0000,OK
+2026-03-01,Tidal power turbine,0,0,0,2,0,,OK
+2026-03-01,Total all types of electricity generation,961030,961030,0,2,0,0.0000,OK
+2026-03-01,Total electricity production from biomass,35720,35720,0,2,0,0.0000,OK
+2026-03-01,Total electricity production from combustible fuels,712385,712385,0,2,0,0.0000,OK
+2026-03-01,Total electricity production from non-renewable combustible fuels,676665,676665,0,2,0,0.0000,OK
+2026-03-01,Wind power turbine,172764,172764,0,2,0,0.0000,OK
+2026-04-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2026-04-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2026-04-01,Hydraulic turbine,74836,74836,1,2,0,0.0000,SUPPRESSED_SOURCE
+2026-04-01,Other types of electricity generation,0,0,0,2,0,,OK
+2026-04-01,Solar,710,710,0,2,0,0.0000,OK
+2026-04-01,Tidal power turbine,0,0,0,2,0,,OK
+2026-04-01,Total all types of electricity generation,792874,792874,0,2,0,0.0000,OK
+2026-04-01,Total electricity production from biomass,30687,30687,0,2,0,0.0000,OK
+2026-04-01,Total electricity production from combustible fuels,577310,577310,0,2,0,0.0000,OK
+2026-04-01,Total electricity production from non-renewable combustible fuels,546623,546623,0,2,0,0.0000,OK
+2026-04-01,Wind power turbine,140018,140018,0,2,0,0.0000,OK
+2026-05-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2026-05-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2026-05-01,Hydraulic turbine,96745,96745,1,2,0,0.0000,SUPPRESSED_SOURCE
+2026-05-01,Other types of electricity generation,0,0,0,2,0,,OK
+2026-05-01,Solar,2235,2235,0,2,0,0.0000,OK
+2026-05-01,Tidal power turbine,0,0,0,2,0,,OK
+2026-05-01,Total all types of electricity generation,588310,588310,0,2,0,0.0000,OK
+2026-05-01,Total electricity production from biomass,30780,30780,0,2,0,0.0000,OK
+2026-05-01,Total electricity production from combustible fuels,332799,332799,0,2,0,0.0000,OK
+2026-05-01,Total electricity production from non-renewable combustible fuels,302019,302019,0,2,0,0.0000,OK
+2026-05-01,Wind power turbine,156531,156531,0,2,0,0.0000,OK
+2026-06-01,Combustion turbine,,,1,1,,,SUPPRESSED_SOURCE
+2026-06-01,Conventional steam turbine,,,2,2,,,SUPPRESSED_SOURCE
+2026-06-01,Hydraulic turbine,71258,71258,1,2,0,0.0000,SUPPRESSED_SOURCE
+2026-06-01,Other types of electricity generation,0,0,0,2,0,,OK
+2026-06-01,Solar,1085,1085,0,2,0,0.0000,OK
+2026-06-01,Tidal power turbine,0,0,0,2,0,,OK
+2026-06-01,Total all types of electricity generation,582742,582742,0,2,0,0.0000,OK
+2026-06-01,Total electricity production from biomass,23185,23185,0,2,0,0.0000,OK
+2026-06-01,Total electricity production from combustible fuels,397740,397740,0,2,0,0.0000,OK
+2026-06-01,Total electricity production from non-renewable combustible fuels,374555,374555,0,2,0,0.0000,OK
+2026-06-01,Wind power turbine,112659,112659,0,2,0,0.0000,OK
